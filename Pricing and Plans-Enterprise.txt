@@ -1,0 +1,47 @@
+Enterprise solutions
+企業向けソリューション
+
+Enterprise Scalr is designed for companies which want the freedom of the open-source product along with the security of the Scalr support team. We will help you install Scalr on your own data-centers in order to be able to fully control it and avoid any heart attack to your security team. Enterprise Scalr is only available for companies with a large infrastructure.
+エンタープライズ版Scalrはオープンソースの自由度とScalrサポートチームのセキュリティを求める企業の為にデザインされたプランです。Scalrサポートは顧客のデーターセンターでのScalrインストールを支援し、セキュリティチームにサプライズが無いように完全に制御できるようにします。エンタープライズScalrは大型インフラのもった企業にしか利用できません。
+
+What kind of support are we talking about?
+どんなサポート？
+
+Our team of engineers is ready to help you deploy Scalr, fix bugs and manage upgrades. Cherry on the cake: if you need to tweak Scalr and add features that could benefit the all community, there might be a solution. Contact us for more information.
+Scalrエンジニアはいつでも支援体制ができてます。Scalr展開にしても、バグ修正でも、更新管理でも。もしScalrに特徴追加したいにしても、Scalrを改善したいにしても、ソリューションがあるかもしれません。詳細には連絡を。
+
+How does it work?
+どのように？
+
+Scalr receives your scope statement, evaluates the feasibility of the project and gets back to you with a response. There are two factors: your willingness to make things happen and the technological challenge behind it.
+Scalrがお客様のスコープステートメントを受信したらプロジェクトの実現可能性を評価し、返信します。主にファクターが二つあり、技術的チャレンジと顧客の熱意。
+
+Guys, this is really serious, I cannot afford any downtime.
+ダウンタイムを許せないのであれば？
+
+We understand. This why we teamed up with Grid Robotics to offer you an high-end expertise on performance and disaster recovery testing. You can take a look at our partnership offering here.
+理解してます。だから、Grid Roboticsとタグを組み、最高品質の専門知識から用いった性能と障害回復検証を提供できるようにしました。パートナーシップに関してこちらでご覧になれます。
+
+Who is it for?
+誰の為に？
+
+1. Companies with a large infrastructure to manage.
+1. 巨大インフラを持った企業様
+
+2. Companies which don’t like to spend money on a proprietary product.
+２．特許品にお金をかけたくない企業様
+
+3. Companies which like open source because it is transparent, safe and free.
+３．透明度の高い、安全な、無料なオープンソースの好きな企業様
+
+4. Companies which want their requests to benefit an entire community.
+４．出された要求がコミュニティ全体に貢献したい企業様
+
+5. Companies which believe in a more opened IT world.
+５．より開いたIT世界に信じてる企業様
+
+I don’t believe you guys, this is too much awesome.
+あまりにも良すぎて信じがたいのですが・・・
+
+Scalr is used by companies like Samsung to support worldwide private cloud infrastructures. Do you want to be the next one?
+Scalrはサムスンの様な大企業に、グローバルクラウドインフラをサポートする為に使われてます。貴社は次に導入されてみてはいかがでしょう？

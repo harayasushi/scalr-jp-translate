@@ -1,0 +1,8 @@
+Open Source
+オープンソース
+
+We want to make Scalr a low-risk, no brainer choice for managing your cloud infrastructure. This is why we release Scalr open source software under the Apache 2license. Not only does this give you the freedom to deploy wherever, but it also frees you from being locked into the Scalr hosted service.
+Scalrをクラウドインフラを管理する為に低リスク且つオンリーワンになっていきたいです。この理由でScalrをオープンソースソフトウェアとしてApache2ライセンスでリリースしてます。どこでも自由に展開できるだけでなく、ホスト型サービスから固定されずに解放されやすくなります。
+
+You need to keep in mind that setting up Scalr open-source and its components may be hard. In addition, if you plan to tweak the code, updates may be difficult to implement. If you are just trying to discover how Scalr works, we definitely recommend signing-up and testing Scalr for free for 30 days. If you plan to deploy Scalr to manage your company’s servers and need to support to assist you, please see ourScalr for enterprise offer.
+覚えておく必要がありますが、Scalrオープンソースとそれぞれのコンポーネントのセットアップは難しいです。更に、コードを改良しようとすると、今後の更新導入は難しい可能性もあります。もし、Scalrがどう動くか知り始めてる状況であれば、無料お試しプランで登録し、Scalrを30日間テストする事をお勧めします。もし、会社のサーバを管理する為にScalrを展開したい且つサポートが必要であれば、エンタープライズ版のScalrを見てください。

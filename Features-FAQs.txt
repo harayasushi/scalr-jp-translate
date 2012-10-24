@@ -1,0 +1,98 @@
+Frequently Asked Questions
+よくある質問
+
+If you don’t find the answer to your questions, please contact us or consult our wiki.
+ここに質問の答えが見つからない場合は、連絡をするか、ウィキをご覧なってください。
+
+What problems does Scalr solve?
+Scalrはどんな問題を解決できますか？
+
+Cloud management softwares like Scalr, take the repetition away from managing you servers’ lifecycle. You may say: “It is relatively easy to launch new servers from your cloud provider interface. Amazon even provides a basic auto scaling feature now. Why should I use Scalr?”. Well, launching new boxes is not the hard part. The hardest part is what happens next if you want your servers to be fully functional. The operating system may or may not be installed and configured with the features that you need. In most cases you will need to add the middleware, some third-party libraries, set up application dependencies (users and permissions), install and configure your application, update usernames, passwords, app config and web config files etc. Scalr helps you automate all of the above and gives you visibility over your cloud resources.
+Scalrのようなクラウド管理ソフトウェアはサーバライフサイクルの管理から繰り返しを無くします。こんな事も言えますが：”比較的簡単に新サーバをクラウドプラバイダーインターフェイスから発信できます。アマゾンでも基本オートスケール特徴を提供してます。なぜScalrを使用します？”新ボックスを発進させるのは難しい事ではないです。サーバを完全な機能性を持たすかどうかが最大の困難であります。OSが必要な特徴をインストール・構成されてるかが課題です。殆どの場合ではミドルウェア・サードパーティライブラリー・アプリ存在性（ユーザーと認証情報）をセットアップし、アプリをインストール・構成し、ユーザー名・パスワード・アプリ構成・ウェブ構成ファイルなどを更新しなければなりません。Scalrはこれら全部を自動化し、クラウドリソースの可視性を上げます。
+
+Why would I use Scalr as a hosted service when I can download the code and run it myself?
+コードをダウンロードし、自分で走らせるなら、なぜホスト型Scalrを使用した方がいい？
+
+We’ll give you five reasons!
+理由は５つ！
+
+1. Cost – When self-hosting, you have to pay for the servers you install Scalr on. This can range from a single tiny instance, to a highly available, high performance cluster. That itself can cost more than a subscription to the hosted service.
+１．コスト：　独自でホスティングすると、Scalrをインストールするサーバ使用を払わなければなりません。これは小さいインスタンス一個から利用性の高い、高性能なクラスターまで至ります。このコスト自体がホスト型サービスよりコスト高になる可能性もあります。
+
+2. Support. All plans to hosted Scalr include support. You don’t want to be alone when disaster strikes!
+２．サポート：　全てのScalrプランはサポートを含みます。
+
+3. Maintenance. Do you really want to tell the wife that you need to get online to install some security updates while on vacation?
+３．保守：　バケーション中に本当にセキュリティ更新をインストールしたいですか？
+
+4. High availability. The hosted Scalr service is distributed across multiple datacenters for high availability. You like uptime, right?
+４．高い利用性：　ホスト型Scalrサービスは複数データセンターを介して分配されてます。アップタイムを保ちます。
+
+5. Supporting software development. Although it’s never fun to pay anything, contributing financially to Scalr through a subscription will help make us, and hence you, more successful in the long run.
+５．ソフトウェア開発のサポート：　何事も支払いしたくないと思いますが、Scalrに会費を通して金銭的に貢献することによって、長期的にお互いが成功に繋いでいけると思います。
+
+What are the differences between Scalr and RightScale?
+ScalrとRightScaleの差は？
+
+RightScale has a grid edition for batch processing that Scalr does not have, and has lifecycle management tools that Scalr doesn’t have either. That said, we believe Scalr is easier to use. Of course Scalr is also open source, and its paid plans are less expensive. Learn more about Scalr vs RightScale.
+RightScaleはScalrにないバッチプロセシングのグリッド版やライフサイクル管理ツールがあります。ただ、弊社はScalrの方が簡易的に使用できると思っております。勿論、Scalrはオープンソースなのでプラン自体がRightScaleより安いです。Scalr Vs RightScaleに関してこちらへ。
+
+How is Scalr better than the Amazon Web Services console?
+ScalrはどのようにAWSコンソールより良いですか？
+
+AWS provides a web console, free of charge, to users of its cloud services. This tool is fine when you only have a few servers, but it can quickly get messy as you accumulate backups, snapshots, bundles, images, instances, volumes, elastic ips, keypairs, and more.
+AWSは無償でクラウドサービスユーザーの為にウェブコンソールを提供してます。このツールは少数のサーバだと問題ないですが、バックアップ・スナップショット・バンドル・イメージ・インスタンス・ボリューム・Elastic IP・キーペアが蓄積すると管理できなくなる可能性が高いです。
+
+This is where Scalr comes in handy–it provides advanced tooling to manage large amounts of resources, by tracking what resources was used where, allowing you to sort them by many parameters, and providing a boatload of automation, both out-of-the-box and scriptable, so you don’t get bogged down in low-level, routine tasks. Scalr makes it equally easy to manage 1 or 1000 servers. Unfortunately, life is not as simple with the AWS console.
+こういう時こそ、Scalrが便利です - 高度なツーリングを提供する事で大量なリソースが管理でき、トラッキングでどのリソースがどこで使用されてるか判明でき、パラメータにより分類できます。同時に様々な自動化で（スクリプトやすぐに使える物）を利用する事により、低レベル且つルーティンタスクに足を引っ張らなくなります。Scalrを使用する事でサーバを一個だろうが、1000個だろうが同じく簡単に管理できます。残念ながら、AWSコンソールではそこまで簡単ではないです。
+
+Amazon Web Services already features autoscaling. How is Scalr any different?
+AWSは既にオートスケール機能があります。Scalrはどう違いますか？
+
+Let’s say you have three web servers, and each one should handle 1000 concurrent users at least, otherwise they should be terminated. At 4am, your traffic is slowing down, and you only have 2100 simultaneous users, so 700 per server. This is below your threshold, so a downscaling event is triggered.
+仮シナリオを提示します：　ウェブサーバが三つあります。サーバ終了の閾値が最低1000同時接続者となってます。朝4時にトラフィックが減速して同時接続者が2100に減り（各サーバ700）、閾値より下なので、ダウンスケールイベントがトリガーされます。
+
+With EC2 auto-scaling, one of the three servers will be terminated. This means that the 500 users that were on the server will have their connections closed, and be logged out (if you use file-based sessions, very common with PHP and other languages).
+EC2オートスケールでは三つの中の一つのサーバが終了されます。どう言った形になるか言うと、500ユーザーがサーバとの接続を閉められ、ログアウトされます（ファイル基盤セッションでPHPや他の言語使用時には良くある話です）。
+
+Scalr handles downscaling differently. Before terminating a server, the OnBeforeHostTerminate event is triggered: it allows you to perform maintenance actions to prepare the server for being terminated. Furthermore, Scalr uses the web server’s safe shutdown method, so no new connections are made. It waits until all the connections are closed to terminate the server.
+Scalrはダウンスケールを違う方法で使います。サーバ終了前にイベント： OnBeforeHostTerminateがトリガーされます。このイベントでサーバ終了の準備に入る保守行動の実行ができます。更に、Scalrはウェブサーバの安全終了方法を用いて終了しますので、新接続は無いです。全ての接続が閉まるまでサーバを終了します。
+
+How does Scalr compare to Beanstalk?
+ScalrとBeanstalkをどう比べますか？
+
+Although seemingly similar at first, Beanstalk’s objective is to put your application on auto-pilot. Drop your application in a container and it stays alive / flies from A to B. This is different from cloud management, whose focus is making your team more productive when managing infrastructure like instances, storage, and configuration.
+一見似てそうですが、Beanstalkの目標はアプリケーションをオートパイロットにさせる事です。アプリをコンテーナーに入れ、稼動しながらAからBへ飛びます。これはクラウド管理とは大きく異なってます。クラウド管理はインスタンス・ストレージ・構成などのインフラの管理を効率化し、チームの生産性を上げるところに注目をおいてます。
+
+Beanstalk is java-only (throught the use of Tomcat) and does not include a database, making it an inferior choice compared to the all-in-one role you have access to with Scalr.
+Beanstalkはjavaのみ（Tomcat通して）で、データベースも含みませんのでオールインワンのScalrと比べると劣ったオプションです。
+
+What are the differences between Scalr and Amazon RDS to manage MySQL databases?
+ScalrとAmazon RDSのMySQLデータベース管理はどう異なってます？
+
+Both Scalr-managed MySQL and Amazon RDS offer convenient ways to run a mysql server. There are notable differences though.
+Scalrで管理されたMySQLとAmazon RDS も便利な方法でmysqlサーバを走らせますが、違いはあります。
+
+RDS does not auto-scale. Scalr-managed MySQL does. As load increases, read replicas are not automatically added. However RDS does automatically update with security patches in maintenance windows.
+RDSはオートスケールできません。Scalrで管理されたMySQLは可能です。ロード増加により、読みレプリカは自動的に追加されません。ただし、RDSは保守ウィンドウを通してセキュリティパッチで自動更新します。
+
+Scalr-managed MySQL does auto-scale, however applying security patches are left to the administrator to determine when the best time is.
+Scalrで管理されたMySQLはオートスケールします。ただし、セキュリティパッチの一番良い適用時期は管理者の判断で決定されます。
+
+What happens if Scalr goes down? Will my instances keep running?
+Scalrが落ちたらどうなります？インスタンスは走り続けます？
+
+A responsible administrator will always ask himself this question for every vital part of his infrastructure
+責任深い管理者はこの質問を各不可欠なインフラ部分に対して聞くはずです。
+
+For one thing, your instances will keep running. Your database will remain available. Your load balancers will continue to forward traffic to your web servers.
+インスタンスは走り続けます。データベースも利用可能です。ロードバランサーも継続的にトラフィックをウェブサーバに送り続けます。
+
+However, depending on the Scalr component that fails, some functionality may be lost.
+ただし、Scalrコンポーネント障害によって、機能性がなくされる可能性もあります。
+
+What cloud infrastructure services does Scalr support?
+どこのクラウドインフラがサポートされてますか？
+
+Scalr supports both public and private cloud infrastructures services such as Amazon Web Services, Rackspace, Eucalyptus, Nimbula, CloudStack and OpenStack.
+Scalrはプライベートもパブリッククラウドインフラをサポートしてます。含むサービスは：　AWS、RackSpace、Eucalyptus、Nimbula、Cloudstack、Openstack.

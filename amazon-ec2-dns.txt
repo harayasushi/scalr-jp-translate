@@ -1,0 +1,27 @@
+On the cloud, you are constantly moving instances around, starting new ones or terminating unused servers. If you are using Amazon EC2, DNS management can be an operational nightmare. For every change you make to your infrastructure, new IP addresses are generated that you have to update manually.
+- 日本語 - 
+not yet translated
+
+These difficulties were partly solved by Amazon with the introduction of Elastic IPs. However, most of the time, your application, your load balancer or your database servers communicate using private IP addresses. So far, Amazon EC2 does not provide the tools to automate the management of your DNS records.
+- 日本語 - 
+not yet translated
+
+Amazon EC2 DNS management made easy
+- 日本語 - 
+not yet translated
+
+Fortunately, Scalr can manage your DNS zones for you, should you wish to have it do so. It is as easy as logging in to your registrar and point your domain (or subdomain) to Scalr’s name servers. DNS zones are automatically updated by Scalr to reflect the Amazon EC2 instances you are running at any given time.
+- 日本語 - 
+not yet translated
+
+- When a new instance is brought up, its IP address is added to the DNS zone as an A record.
+- When an instance is terminated, its IP address is removed from the DNS zone.
+- If an instance has an ElasticIP, that IP is used for the record.
+- When an instance with an ElasticIP dies, the ElasticIP is used for the record of the replacement instance (to which the ElasticIP is attached).
+- 日本語 - 
+not yet translated
+
+It’s THIS easy!
+Don’t just take our word for it:
+- 日本語 - 
+not yet translated

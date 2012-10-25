@@ -1,0 +1,67 @@
+Cloud Providers
+
+In 2006, Amazon Web Services (AWS) began offering IT infrastructure services to businesses in the form of web services—now commonly known as cloud computing. Today, Amazon Web Services provides a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers hundreds of thousands of businesses in 190 countries around the world.
+For more information visit aws.amazon.com.
+- 日本語 -
+noy yet
+
+Fanatical Support® has made Rackspace the world’s leading specialist in the hosting and cloud computing industry. Rackspace delivers enterprise-level hosting services to businesses of all sizes, offering its special brand of managed hosting, cloud hosting, and email and apps. Since 1998, Rackspace has grown to more than 161,000 customers and over 3,800 Rackers.
+For more information visit www.rackspace.com
+- 日本語 -
+noy yet
+
+Nimbula develops cloud orchestration software for the implementation of public and private cloud computing environments. Their software, Nimbula Director, is designed to make it easier for Service Providers and Enterprises to build, manage and deploy IaaS offerings.
+Nimbula is a backed by Sequoia Capital and Accel Partners.
+For more information visit www.nimbula.com
+- 日本語 -
+noy yet
+
+Eucalyptus is a software platform for the implementation of private cloud computing on computer clusters. Both open-core enterprise edition and an open-source edition are available. The development of Eucalyptus software is sponsored by Eucalyptus Systems, a startup venture-backed.
+For more information visit www.eucalyptus.com
+- 日本語 -
+noy yet
+
+CloudStack, is an open source cloud orchestration software product for the implementation of public and private cloud computing environments created by Cloud.com. Cloudstack is designed to make it easier for Service Providers and Enterprises to build, manage and deploy IaaS.
+For more information visit www.cloudstack.com
+- 日本語 -
+noy yet
+
+Chef
+Opscode is the leader in cloud infrastructure automation. We help companies of all sizes develop fully automated server infrastructures that scale easily and predictably; can be quickly rebuilt in any environment; and save developers and systems engineer’s time and money. Opscode’s team is comprised of web infrastructure experts responsible for building and operating some of the world’s largest websites and cloud computing platforms. Opscode is headquartered in Seattle.
+For more information visit www.opscode.com
+- 日本語 -
+noy yet
+
+Cost Monitoring
+Cloudyn makes it easy to understand, control and optimize cloud consumption, providing users with the ability to save up to 40% on their cloud costs. Cloudyn’s integration with Scalr enables users to uncover cloud inefficiencies (such as underutilized and unused resources), receive actionable recommendations on ideal pricing plans, as well as avoid unanticipated spending with easy-to-use, customizable and automated alerts – all within Scalr’s familiar interface.
+For more information, visit www.cloudyn.com
+- 日本語 -
+noy yet
+
+Monitoring Service
+Datadog is a monitoring service for IT, Operations and Development teams who write and run applications at scale, and want to turn the metric and event data produced by their apps, tools and services into actionable insight. The product integrates metrics and events from many sources including existing monitoring tools, so you can visualize performance of all your services, systems and applications, without having to switch between tools. And since Datadog runs as a service in the cloud, you can focus your time on performance monitoring rather than managing monitoring servers.
+For more information visit www.datadoghq.com
+- 日本語 -
+noy yet
+
+Performance Monitoring and Testing
+Grid Robotics LLC is the leading provider of PaaS (Platform as a Service) solutions for development, testing, training and collaboration for all the major public and private clouds. Their innovative Windows® and Linux virtual appliances are optimized to run in today’s cloud and virtual environments, providing virtualized solutions to real world problems.
+To learn more about our common offer with Grid Robotic, read our presentation .
+For more information, visit www.gridrobotics.com
+- 日本語 -
+noy yet
+
+Log Management
+Loggly is the leading cloud-based log management and data analytics platform. Founded in 2009, Loggly’s service is a cost effective way for users to monitor, debug, and troubleshoot their IT infrastructure, applications, and business processes to generate actionable results.
+Loggly is headquartered in San Francisco and backed by True and Trinity Ventures.
+For more information visit www.loggly.com
+- 日本語 -
+noy yet
+
+System Integrators
+Creationline produces and innovates business processes and models by using creative solutions and the latest technology. It has worked with various government and administrative agencies in Japan, including the Ministry of Economy, Trade and Industry (METI) to evaluate its basic functionality, performance, and reliability of cloud operation and management tools.
+For more information visit www.creationline.com.
+- 日本語 -
+noy yet
+
+

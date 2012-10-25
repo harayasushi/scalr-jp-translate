@@ -1,0 +1,77 @@
+You’re running a website or web service that attracts hundreds or thousands of users. With that sort of traffic, you cannot afford downtime.
+- 日本語 -
+not yet translated
+
+Whenever a problem arises, you need to act fast. Waiting for a response can be painful—at best it impacts user experience, at worst you lose customers. Scalr offers a support plan that addresses these requirements and guarantees that any of your issues get first priority from our support team. That means fast response time from us. Scalr emergency support provides professional support for mission-critical applications.
+- 日本語 -
+not yet translated
+
+What other guarantees do I get with emergency support?
+- 日本語 -
+not yet translated
+
+With emergency support we offer the following uptime guarantee:
+— 99.9% uptime for the Scalr UI, API, auto-scaling, and backups
+— For every percentage point of downtime under 99%, we’ll refund you 10% (to a maximum of 100%) of the month’s service charge in the form of future credits
+— Scalr.net downtime does not equate to downtime of your website. Your instances will keep running!
+- 日本語 -
+not yet translated
+
+How do I request help?
+- 日本語 -
+not yet translated
+
+For Priority 1 and Priority 2 issues, you can call the Scalr emergency support number at any hour of any day. This number is available only for our emergency support members. For Priority 3 and Priority 4 issues, you can use support.scalr.net, and we’ll automatically categorize it as prioritized. If you are unsure about the category, you can post a ticket and call us with the ticket ID.
+- 日本語 -
+not yet translated
+
+What does emergency support cover?
+- 日本語 -
+not yet translated
+
+Scalr emergency support covers the following issues:
+— Inaccessibility or dysfunction of the Scalr.net UI
+— Inaccessibility or dysfunction of the Scalr.net API
+— Failure to auto-heal unresponsive instances
+— Initialization failure of the Scalarizr guest agent
+— Failure to auto-scale instances according to user-set algorithm
+- 日本語 -
+not yet translated
+
+Severity levels
+- 日本語 -
+not yet translated
+
+Scalr categorizes incidents into severities ranging from 1 (critical) to 4 (benign). Depending on the severity of the issue encountered, response times and status updates vary. Phone support is available for severities 1 and 2, and the ticketing system will handle severities 3 and 4.
+- 日本語 -
+not yet translated
+
+Here’s how we classify issues from Priority 1 to Priority 4:
+- 日本語 -
+not yet translated
+
+P1 – Scalr is completely inoperable or unavailable or there is a critical performance fault. Or a material aspect of Scalr is inoperable or unavailable for Tier 1. The fault is such that some or all users cannot authenticate or interact with the services (API, UI) due to an unacceptable performance on Scalr’s behalf.
+P2 – A material aspect of Scalr is inoperable or unavailable for Tier 2 or Tier 3. The fault is such that some or all users cannot authenticate or interact with the services.
+P3 – Scalr is operable and available but processing delays are affecting the actions of some or all users of Scalr.
+P4 – Scalr is operable and available, but there is a cosmetic error affecting the user experience of Scalr.
+- 日本語 -
+not yet translated
+
+Response times and status updates:
+- 日本語 -
+not yet translated
+
+P1 – Response in 2 hours, updates provided no less frequently than every hour until incident resolved.
+P2 – Response in 4 hours, updates provided no less frequently than every 2 hours until incident resolved.
+P3 – Response in 24 hours, updates provided no less frequently than every 6 hours until incident resolved.
+P3 – Response in 1 business day, updates provided upon request.
+- 日本語 -
+not yet translated
+
+Additional services
+- 日本語 -
+not yet translated
+
+If you need help getting set up, we have a network of cloud and Scalr experts to work with you. Check out our consulting page.
+- 日本語 -
+not yet translated

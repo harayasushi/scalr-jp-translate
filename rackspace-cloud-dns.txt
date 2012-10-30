@@ -1,27 +1,21 @@
 Rackspace Cloud DNS Management
+Rackspace クラウドDNS管理
 
 On the cloud, you are constantly moving instances around, starting new ones or terminating unused servers. As a result, Rackspace Cloud DNS managementcan be an operational nightmare. For every change you make to your infrastructure, new IP addresses are generated that you have to update manually.
-- 日本語 -
-noy yet
+クラウド上で常にインスタンスが起動したり、停止したり、移行してます。もしRackspaceをご使用になられてたら、DNS管理の運用は悪夢に感じるかもしれません。インフラに新たな変更を食わせるたびに新たなIPアドレスが発生し、これらを手動で更新しなければなりません。
 
 Rackspace Cloud DNS management made easy
-- 日本語 -
-noy yet
+Rackspace クラウドDNS管理を簡易化へ
 
 Fortunately, Scalr can manage your DNS zones for you, should you wish to have it do so. It is as easy as logging in to your registrar and point your domain (or subdomain) to Scalr’s name servers. DNS zones are automatically updated by Scalr to reflect the Rackspace instances you are running at any given time.
-- 日本語 -
-noy yet
+ScalrはDNSゾーンを管理してくれます。レジストリにログインし、Scalrのネームサーバにドメイン（サブドメインも可）を登録すれば終了です。Scalrは稼働中のアマゾンEC2インスタンスを反映すべき、自動でDNSゾーンを更新します。
 
 When a new instance is brought up, its IP address is added to the DNS zone as an A record.
-- 日本語 -
-noy yet
+- 新たなインスタンスが起動されたら、インスタンスのIPアドレスがAレコードとしてDNSゾーンに追加されます。
 
 When an instance is terminated, its IP address is removed from the DNS zone.
-- 日本語 -
-noy yet
+- インスタンスが停止されたら、IPアドレスがDNSゾーンから削除されます。
 
 It’s THIS easy!
 Don’t just take our word for it:
-
-- 日本語 -
-noy yet
+これだけ簡単なのです！Scalrを使ってみましょう。

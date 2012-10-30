@@ -1,41 +1,33 @@
 If you need help getting set up, we have a network of cloud experts to work with you:
-- 日本語 - 
-not yet translated
+セットアップにガイダンスが必要ならクラウド専門家のネットワークが支援できます：
 
 — Cloud Computing experts;
 — Cloud Database and Datastore experts;
 — Expert systems administrators (sysadmins).
-- 日本語 - 
-not yet translated
+- クラウドコンピューティング専門家；
+- クラウドデータベース・データストア専門家；
+- エクスパートシステムアドミン（シスアド）。
 
 Create
-- 日本語 - 
-not yet translated
+構築
 
 Want to use Cloud Computing, but don’t know where to start? Or don’t want to be messing around with infrastructure? Get Scalr to create the perfect infrastructure for you, then maintain it and keep it running smoothly.
-- 日本語 - 
-not yet translated
+クラウドコンピューティングを使用したいが、どこから始めていいか分からない？インフラに手間を掛けたくない？Scalrで完璧なインフラ構築をし、Scalrで保守維持できます。
 
 Optimize
-- 日本語 - 
-not yet translated
+最適化
 
 Server expenditures running high? Get Scalr to optimize your expensive farms to increase utilization and reduce the amount of instances running, while improving response times for your users.
-- 日本語 - 
-not yet translated
+サーバコストが高すぎる？Scalrで高コストファームの使用度を増やし、稼働中のインスタンス数を削減し、ユーザー反応時間の改善で最適化を目指します。
 
 Confirm
-- 日本語 - 
-not yet translated
+確認
 
 Set up infrastructure, but unsure you did it the right way? Get Scalr to evaluate your setup and suggest improvements.
-- 日本語 - 
-not yet translated
+インフラを構築したが、正確な立ち上げをしたかどうか分からない？Scalrでセットアップを評価し、改善を提案させます。
 
 Outsource
-- 日本語 - 
-not yet translated
+アウトソーシング
 
 No experience with Cloud Computing, or Amazon Web Services? We can create and maintain infrastructure for you.
-- 日本語 - 
-not yet translated
+クラウドコンピューティングやアマゾンウェブサービスに経験が無い？弊社でインフラを構築し維持できます。

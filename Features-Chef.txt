@@ -2,19 +2,18 @@ Chef configuration management
 Chef 構成管理
 
 Scalr integrates with Chef, the configuration management tool offered by Opscode. If you are on the IPO plan or above and use hosted Chef, you can now enjoy the taste of Chef ruby recipes directly in Scalr. Chef is second to none when it comes to manage software servers. Update? Security patches? No problemo.
-ScalrはOpscode社の出してる構成管理ツール「Chef」と統合可能です。もし、IPOプラン以上でホスト型Chefを使用中であれば、Chef Ruby レシピを直でScalrで味わう事ができます。Chefはソフトウェアサーバを管理するツールとしてNo.1です。更新・セキュリティパッチが必要？問答無用。
+ScalrはOpscode社の出してる構成管理ツール「Chef」と統合可能です。もし、IPOプラン以上でホステッドChefを使用中であれば、Chef Ruby レシピを直でScalrで味わう事ができます。Chefはソフトウェアサーバを管理するツールとしてNo.1です。更新・セキュリティパッチが必要？問答無用。
 
 Integration between Scalr and Chef
 Scalr と Chef の統合
 
 Create a control center where you can see your infrastructure, track spending, perform update and manage software servers. All this comes with Scalr gorgeous UI!
-管理センターの作成により、インフラ・トラック支出・更新実施・ソフトウェアサーバ管理などが明確に分かります。これら全部、Scalrの使いやすいUIで扱えます。
-
+管理センターの作成により、インフラ・トラック支出・更新実施・ソフトウェアサーバ管理などが明確に分かります。全て、Scalrの使いやすいUIで扱えます。
 Chef-based Role builder
 Chefを基盤としたロール構築
 
 Add the credentials of your Chef servers and start boostraping servers by specifying runlists. Use the Chef side-tab on your Roles. Runlists will run every time a new instance of these roles is provisionned.
-Chef サーバの認証情報を追加し、ランリストを指定する事により、サーバのブート処理を始めます。ロールにあるChefサイドタブを使用。これらのロールの新インスタンスが提供されると、ランリストが毎回走ります。
+Chef サーバの認証情報を追加し、ランリストを指定する事により、サーバのブート処理を始めます。ロールにあるChefサイドタブを使用し、指定されたロールの新インスタンスが提供されると、ランリストが毎回走ります。
 
 Chef integration from the farm builder
 ファームビルダーからのChef統合
@@ -23,10 +22,10 @@ Pull recipes from Chef-server to build and manage your infrastructure. Chef foll
 レシピをChefサーバから引っ張り、独自のインフラを構築し管理します。Chefはランリスト上のレシプに沿って必要なソフトウェアを追加しながら、サーバを正常な状態にしていきます。Chefの力でインスタンス構成を管理しよう。
 
 Set up your Chef server to Scalr from Roles in the menu
-メニューからScalrへのChefサーバをセットアップしましょう。
+ScalrのメニューからChefサーバをセットアップできます。
 
 Assign Chef runlists for Scalr to execute on instance start
-ScalrにChefのランリストを割り当て、インスタンス起動時に実行させる。
+ScalrにChefのランリストを割り当て、インスタンス起動時に実行させます。
 
 Enjoy Scalr UI to manage your recipies and servers.
 レシピ・サーバ管理をScalrUIから。

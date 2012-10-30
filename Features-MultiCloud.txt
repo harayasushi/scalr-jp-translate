@@ -8,7 +8,7 @@ OpenStack
 OpenStack
 
 OpenStack is available in private beta for customers that use the Essex release, with Glance, Nova, Keystone, Swift, and Volumes in working condition. Contact us at openstack@scalr.com for more info on access.
-Essexリリースご使用の客様にはOpenStackをプライベートベータで利用できます。Glance、Nova、Keystone、Swift、Volumesも稼動中です。アクセスや詳細情報には　openstack@scalr.com　までご連絡を。
+Essexリリースご使用の客様にはOpenStackをプライベートベータで利用できます。Glance、Nova、Keystone、Swift、Volumesは稼動中です。アクセスや詳細情報には　openstack@scalr.com　までご連絡を。
 
 What is a multi cloud deployment?
 マルチィクラウド展開って何？

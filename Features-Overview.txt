@@ -71,13 +71,13 @@ API control 
 API　コントロール
 
 Configured web stack 
-構成できる Web Stack
+構成された Web Stack
 
 Pre-configured images 
 自前構成されたイメージ
 
 Scheduler 
-タスクスケジューラ
+スケジューラ
 
 Scripting interface 
 スクリプトインターフェイス
@@ -131,22 +131,22 @@ to infinity, 
 and beyond!
 
 Scalable relational database
-スケーラブル　関係性データベース
+スケーラブル　関係データベース
 
 Scaling a relational database is tedious and difficult. Scalr automatically scales it by setting up replicated slaves (servers, not interns) for you when load increases.
-関係データベースのスケーリングは難しいかつ面倒です。ロード増加により、Scalrは自動的に複製スレイブ（サーバ）を立ち上げます。
+関係データベースのスケーリングは難しいかつ面倒です。ロード増加により、Scalrは自動的に複製スレイブ（サーバー）を立ち上げます。
 
 Scalable app servers
-スケーラブル　アプリケーション　サーバ
+スケーラブル　アプリケーション　サーバー
 
 Launching new servers when load increases can be repetitive and requires your undivided attention. Scalr monitors resource consumption on all your nodes and then launches, configures, and balances load to servers automatically—all based on variable demand.
-ロード増加するたびに新たなサーバを起動するのは反復的な作業であり、常に監視する状況になります。Scalrは常に全ノードのリソース消費度を監視し続けながら、変動需要に基づいてサーバを自動的に起動、構成、ロードバランスします。
+ロード増加する度に新たなサーバーを起動するのは反復的な作業であり、専念しなければなりません。Scalrは常に全てのノードのリソース消費を監視し続けながら、変動需要に基づいてサーバーを自動的に起動、構成、ロードバランスします。
 
 Scripting interface 
 スクリプトインターフェイス
 
 When you run tens or hundreds of servers, executing scripts on every one of them is painful. If you like Capistrano, you’ll love Scalr’s scripting interface, which makes it easy to execute scripts on any instance or group of instances.
-複数サーバが走ってると、各サーバにスクリプトを実行するのは苦痛です。もしCapistranoが好きなら、Scalrのスクリプトインターフェイスは抱きたくなります。簡易にどんなインスタンス、又は複数インスタンスにスクリプトを実行できます。
+複数サーバーが走ってると、各サーバーにスクリプトを実行するのは苦痛です。もしCapistranoが好きなら、Scalrのスクリプトインターフェイスは抱きたくなります。簡易にどんなインスタンス、又は複数インスタンスにスクリプトを実行できます。
 
 Fault-tolerant database
 障害許容データベース
@@ -155,10 +155,10 @@ Databases are often a single point of failure. In the event of failure, Scalr pr
 データーベース障害は単一障害店になりえます。障害時にScalrはスレイブをマスターに推進し必要に応じてストレージの切替を行います。
 
 Scheduler 
-タスクスケジューラ
+スケジューラ
 
 Cron jobs aren’t reliable when placed on ephemeral servers. The Scheduler allows you to set up distributed scripts to be executed periodically.
-エフェメラルサーバ配置時のクロンジョッブは信頼性に欠けます。スケジュールを使用する事によって分配されたスクリプトが自動、かつ定期的に実行されます。
+エフェメラルサーバー配置時のクロンジョッブは信頼性に欠けます。スケジュールを使用する事によって分配されたスクリプトが自動、且つ定期的に実行されます。
 
 API control
 API　コントロール
@@ -170,20 +170,20 @@ Support for AWS services
 AWS サービスのサポート
 
 Scalr supports all of Amazon's special features, like EBS, ELB, CloudFront, S3, Auto-scaling, and CloudWatch.
-Scalrはアマゾンの全特徴のサポートができます。（EBS、 ELB、 CloudFront、 S3、 オートスケール、クラウドウォッチ）
+Scalrはアマゾンの全ての特徴をサポートします。（EBS、 ELB、 CloudFront、 S3、 オートスケール、クラウドウォッチ）
 
 Open Source
 オープンソース
 
 Most software-as-a-service companies take from the community but don’t give back. Scalr is dedicated to open source and releases all its software under the Apache license.
-殆どのSaaS企業は社会から取るだけで貢献しません。オープンソースに専念してる企業として、Scalrは全てのソフトウェアをアパッチライセンス下でリリースしてます。
+殆どのSaaS企業は社会から取るだけで貢献しません。Scalrはオープンソースに専念してる上に全てのソフトウェアをアパッチライセンス下でリリースしてます。
 
 Fault tolerance
 障害許容性
 
 Servers crash. When this happens at 4am, who wants to wake up and fix it? Scalr detects server failure and resolves it by 
 replacing it with a fresh copy or by restarting critical services.
-サーバが朝４時にダウンしたら、起きて復旧したいですか？Scalrはサーバ障害を探知し、新鮮なコピーで置き換えるか、クリティカルサービスを再起動させます。
+サーバーが朝４時にダウンしたら、起きて復旧したいですか？Scalrはサーバー障害を探知し、新鮮なコピーで置き換えるか、クリティカルサービスを再起動させます。
 
 Backups
 バックアップ
@@ -195,7 +195,7 @@ DNS management
 DNS 管理
 
 DNS management can be fairly painful, especially if you don’t know the difference between a CNAME record and an A record. Scalr automatically creates and updates DNS records for you, should you be on Amazon EC2,Rackspace or any other public and private infrastructure. Painless!
-CNAMEとAレコードの差が分からない時など、DNS管理に苦戦する事はよくあります。Scalrはインフラ問わず（アマゾンEC2、Rackspace、公共、プライベート）、自動的にDNSレコードを作成し更新します。
+DNS 管理に苦戦する事はよくあります。特にCNAMEとAレコードの差が分からない時など。Scalrはインフラ問わず（アマゾンEC2、Rackspace、公共、プライベート）、自動的にDNSレコードを作成し更新していきます。
 
 Logical grouping of the servers
 サーバのロジカルグルーピング
@@ -207,32 +207,32 @@ Load visualization
 ロード可視化
 
 Scalable web infrastructure generates tons of data. Scalr lets you visualize this data with an events timeline, load visualization, and many statistics graphs.
-スケーラブルウェブインフラ使用時に大量データが発生します。Scalrはこのデータをイベントタイムライン、ロード可視化、統計グラフなどで可視化できます。
+スケーラブルウェブインフラは大量なデータを発生させます。Scalrはこのデータをイベントタイムライン、ロード可視化、統計グラフなどで可視化できます。
 
 PHPMyAdmin
 PHPMyAdmin
 
 Want to connect to your database to edit a few fields? Change your database schema? Scalr makes this super easy by integrating the popular PHPMyAdmin framework to give you a web-based interface to your data.
-データベースに接続してフィールドを複数編集しり、スキーマを変更したいですか？たいですか？人気のPHPMyAdminフレームワークの統合、データ用のウェブインターフェイスにより、Scalrはこれらを簡易化します。
+データベースに接続して何個かのフィールドを編集したい？データベーススキーマを変更したい？人気のPHPMyAdminフレームワークの統合、データ用のウェブインターフェイスにより、Scalrはこれらが極力簡単にできます。
 
 MySQL replication and stats
 MySQL レプリケーション　＆　統計
 
 It’s hard to diagnose and check the health of large databases. Scalr provides a database dashboard that gives you data such asreplication stats (e.g. seconds_behind_master and operations per second).
-大型データベースの健康診断・検証は困難です。データベース用ダッシュボードを提供することによって、Scalrはレプリケーション統計などのデータを提供します。
+大型データベースの健康診断・検証は困難である。データベース用ダッシュボードを提供することによって、Scalrはレプリケーション統計などのデータを提供します。
 
 Scalr Remote
 Scalr リモート
 
 When you’re responsible for keeping a website working, being on the run can be stressful. Use Scalr Remote to check your infrastructure, execute scripts, and view load on your iPhone.
-ウェブサイトを稼働しながら、様々なタスクを実施するのは難しい。Scalr リモートでは、インフラを確認したり、スクリプトを実行したり、ロードをiPhoneで確認できます。
+複数のタスクをやりながらウェブサイトを稼動するのは難しい。Scalr リモートを使用することにより、インフラを確認したり、スクリプトを実行したり、ロードをiPhoneで確認できます。
 
 Image snapshotting
 イメージ　スナップショット
 
 If you need 20 Apache servers set up, you’ll go nuts repeating configuration for all of them. Scalr keeps you sane by allowing you 
 to snapshot machines, deploy copies as servers, and version all of them.
-Apacheサーバを20個セットアップし構成するのは大変です。サーバのスナップショットを撮る事で複製サーバが簡単に展開でき、全てバージョン化できます。
+Apacheサーバを20個セットアップし構成するのは大変です。Scalrでサーバをスナップショットする事で複製サーバを展開でき、全てバージョン化できます。
 
 Multi-cloud deployment
 マルチィクラウド展開
@@ -247,13 +247,13 @@ Don’t expose your infrastructure to malicious activity. Scalr dynamically modi
 インフラを悪質行為にさらさせるな。Scalrは動的にファイアウォールを変更し、持ちサーバ以外からの接続を認めないように管理できます。
 
 Configured web stack
-構成できる Web Stack
+構成された Web Stack
 
 Even though the web stack is fairly standardized—most users use LAMP—setup and configuration is lengthy and repetitive. Scalr streamlines the process of creating infrastructure by auto-provisioning and auto-configuring everything around your application.
 WebStackは標準化されてはいるが（殆どのユーザーはLAMP使用）、セットアップや構成の作業に長時間かかり、繰り返しやらなければなりません。アプリ周りの全てを自動構成・自動プロビジョニングをする事により、Scalrはインフラ作成のプロセスを効率化します。
 
 Scaling algorithms
-スケール　アルゴリズム
+スケーリング　アルゴリズム
 
 Some applications scale differently compared to the rest. You can set custom scaling options for each component of your architecture to optimize the metrics by which you scale.
 アプリによってスケール度が異なります。アーキテクチャーの格コンポーネントをカスタムスケールオプション設定する事によって、スケールメトリックスを最適化できます。
@@ -262,7 +262,7 @@ Integrated SSH and key management
 統合されたSSH＆キー管理
 
 When you grow to hundreds or thousands of instances in the cloud, managing keys to SSH into instances can be extremely challenging. Scalr provides one-click SSH access to any of your instances—using secure key access—and lets you re-download keys if you lose them.
-クラウド上でインスタンス数が千単位に成長するとSSHキー管理が厳しくなります。Scalrはセキュアキーアクセスを使用してワンクリックSSHアクセスをどのインスタンスにも提供し、キー消失際に再ダウンロード可能とします。
+クラウド上で千単位のインスタンスに成長するとSSHキー管理が厳しくなります。Scalrはセキュアキーアクセスを使用してワンクリックSSHアクセスをどのインスタンスにも提供し、キー消失際に再ダウンロード可能とします。
 
 Pre-configured images
 自前構成されたイメージ
@@ -274,7 +274,7 @@ Super Fast MySQL Engine
 超高速 MySQL エンジン
 
 The database is often the slowest component of web architecture. Scalr features automatic MySQL scaling that can divide reads and writes to speed up the application.
-普段、ウェブアーキテクチャーの中でも最も遅いコンポーネントがデータベースです。 Scalrの自動MySQLスケーリングにより、読み書きが分別され、アプリの速度向上に繋がってます。
+普段、ウェブアーキテクチャーの中で最も遅いコンポーネントはデータベースです。 Scalrの自動MySQLスケーリングにより、読みと書きを分別し、アプリの速度向上に繋がってます。
 
 Company
 会社

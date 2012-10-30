@@ -62,7 +62,7 @@ Emergency Support
 緊急サポート
 
 1 For your convenience we allow some flexibility in the server range. Scale up to 25% more than what your plan allows. For free !
-サーバ数範囲に関しては、多少な柔軟性を持ちます。無料でプランの25%以上スケール可能としてます。
+サーバレンジに関して、多少な柔軟性を持ちます。無料でプランの25%以上スケーリング可能とします。
 
 2 We support multi-cloud deployment for EC2, Rackspace, Eucalyptus, Nimbula, and Cloudstack.
 EC2、Rackspace、Eucalyptus、Nimbula、Cloudstackのマルチィクラウド展開のサポートをします。
@@ -80,4 +80,4 @@ Scalr consulting
 Scalr コンサルティング
 
 Does the thought of Amazon Web Services or cloud computing make you break out in a nervous sweat? Would you like a second set of discerning eyeballs on your infrastructure to suggest improvements? Get assistance and advice from Scalr itself! Or, no biggie, we could just do the whole shebang for you. Discover what we can do for you if you’re interested in a little extra help.
-AWSやクラウドコンピューティングに関してオロオロしてませんか？インフラについてセカンドオピニオン欲しがりません？Scalrからヘルプやアドバイスを求めましょう。
+AWSやクラウドコンピューティングに関してオロオロしませんか？インフラについてセカンドオピニオン欲しがりません？Scalrからヘルプやアドバイスを求めましょう。

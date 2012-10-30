@@ -7,12 +7,10 @@ Postgresデータベースは、Amazon RDSと同じように、行のメンテ�
 RDSでは不可能な自動スケールも可能です。
 
 Pre-configured Image
-事前構成されたイメージ
+事前に構成されたイメージ
 
 The Postgres image comes pre-configured with sensible parameters, and Scalr generates a unique password for you to connect your application. Additional control is achieved via ConfigurationTemplates.
-Postgresイメージは、実用的なパラメーターを使って事前に構成されています。
-また、アプリケーションに接続するためのユニークなパスワードを生成します。
-それ以上のコントロールはコンフィグレーションテンプレートから行えます。
+Postgresイメージは、実用的なパラメーターを使って事前に構成されています。また、あなたのアプリケーションに接続するためのユニークなパスワードを生成します。それ以上のコントロールはコンフィグレーションテンプレートから行います。
 
 Monitoring and Metrics
 監視とメトリックス
@@ -24,8 +22,7 @@ Automated Backups 
 自動バックアップ
 
 Backups can be turned on or off, set to run at regular intervals, and rotated n times before being discarded. You can even run backups manually or via API call. Same goes for snapshots (EBS).
-単にバックアップをon,offするだけではなく、周期で走らしたり破棄までn回転するなどの機能も含んでます。
-APIコールを使用して手動でバックアップすることも可能です。スナップショットも同様です。
+単にバックアップをon,offするだけではなく、周期で走らしたり破棄までn回転するなどの機能も含んでます。APIコールを使用して手動でバックアップすることも可能です。スナップショットも同様です。
 
 Auto-Scaling 
 自動スケーリング
@@ -34,17 +31,16 @@ Scalr automatically adds read replicas when your read traffic increases above us
 Scalrは読み込みトラフィックがユーザーが決めた閾値を超えた場合に自動的に読み込み用レプリカを追加します。手動で追加することも可能です。
 
 Automatic Host Replacement
-自動ホスト代用
+自動ホストリプレースメント
 
 Scalr will automatically replace the instance powering your database in the event of a host failure
-Scalrは自動的にインスタンスを代用することが出来るため、ホストがダウンした場合に効果を発揮します。
+Scalrは自動的にインスタンスをリプレースすることが出来るため、ホストがダウンした場合に効果を発揮します。
 
 Replication
 レプリケーション
 
 Scalr provides read replicas for read-heavy applications.
-Scalrは読み込み激しいアプリケーションに対して読み込み用レプリカを用意します。
-
+Scalrは読み込みの激しいアプリケーションに対して読み込み用レプリカを用意します。
 
 The PostgreSQL status page allows you to check on the databases’ replication status, last backup (a dump), and last data bundle (binary snapshot).
 PostgreSQLステータスページではデータベースのレプリケーションステータス・最終バックアップ（ダンプ）・最終データバンドル（バイナリスナップショット）を確認できます。

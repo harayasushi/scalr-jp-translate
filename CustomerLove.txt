@@ -1,23 +1,23 @@
 Customers love us!
-顧客からの愛
+お客様の声
 
 Both big companies and startups loves using our product! Why?
-大企業もスタートアップもScalrが好きです。なぜ？
+大企業もベンチャーもScalrを好みます。なぜ？
 
 Scalr has helped them increase uptime, scale with traffic, and be agile in the cloud.
-Scalrはアップタイムの増加、トラフィックのスケーリング、クラウドのアジャイル度に貢献してます。
+Scalrはアップタイムの増加、トラフィックのスケール、クラウドのアジャイル度に貢献してます。
 
 Testimonials
 顧客証言
 
 “Before, we trudged through time-consuming, repetitive tasks that were often prone to errors. That all changed when we met Scalr.”
-以前はエラーの起こしやすい、時間のかかるタスクを繰り返しやってました。Scalr導入以来、全てが変わりました。
+以前はエラーの起こしやすい、時間のかかるタスクを繰り返しやってました。Scalr導入後、全てが変わりました。
 
 “I’ve been very pleased with Scalr so far, definitely seems like more value for the price than some of the competitors, like RightScale, and has been very solid; it has allowed us to grow our business without ballooning costs.”
 これまでのScalrには大変満足です。他の競合と比べても（RightScale等）、コストパフォーマンスが高く、RightScale同様でしっかりできてます。コストを急増せずに事業を成長させることができてます。
 
 “Scalr is a work of art. Its reliability has been a godsend for us, over the past two years. Everybody who makes this wonderful service possible has my sincere thanks.”
-Scalrは正に芸術品です。ここ２年間、信頼性が天の恵みみたいなものでした。この素晴らしいサービスを可能にしてくださった方たちに感謝致しております。
+Scalrは正に芸術品です。ここ２年間、信頼性が天の恵みみたいなものでした。この素晴らしいサービスを可能にしてくださった方たちに感謝致してます。
 
 “I’m super impressed with how well it’s worked thus far and really applause you on the innovation and technology behind it. It’s definitely making my life easier.”
 これまでの動作に関して凄い感心してます。裏付けとなってる革新と技術に称賛します。毎日がかなり楽になりました。
@@ -26,22 +26,22 @@ Scalrは正に芸術品です。ここ２年間、信頼性が天の恵みみた
 素晴らしい　−　ScalrはTweetStatsのTwitterからの予想されないトラフィックの流入を問題なくスケールできます。
 
 “I’d argue that Scalr makes Amazon EC2 significantly more interesting from a developer’s standpoint.”
-開発観点から言うとScalrはAmazon EC2を著しく面白くしてる主張したい。
+開発観点から言うとScalrはAmazon EC2を著しく面白くしてると主張したい。
 
 “Those behind Scalr believe open-sourcing their pet project will help disrupt the established, for-pay players in the AWS management game, RightScale.”
-Scalrに信じてる者はプロジェクトをオープンソースする事により、RightScaleのようなAWS運営ゲームで有償且つ定着した企業を妨害する事ができると思ってます。
+Scalrに信じてる者はプロジェクトをオープンソースする事により、RightScaleのような課金に基づいたAWS運営ゲームや定着した企業を妨害する事ができます。
 
 Scalr was awarded “Best of Cloud Computing” by FindTheBest, an unbiased, data-driven comparisons directory of cloud computing providers.
-ScalrはFindTheBestというクラウドコンピューティングプロバイダー用の不偏且つデータ駆動型の比較ディレクトリーで"クラウドコンピューティング１位”を受賞。
+ScalrはFindTheBestというクラウドコンピューティングプロバイダ用の不偏かつデータ駆動型な比較ディレクトリー基で"クラウドコンピューティング１位”を受賞。
 
 “With Scalr you can now have a fully redundant, self-curing and self-scaling hosting environment utilizing Amazon’s EC2.”
-ScalrではAmazon EC2を使用した完全冗長性のある、独自復帰可能なホスト環境が用意されてます。
+ScalrではAmazon EC2を使用した完全冗長性のある、独自復帰可能なホスト環境を用意してます。
 
 “Scalr allows you to create server farms through a web-based interface using prebuilt AMI’s for load balancers, app servers, databases, and a generic AMI to build on top of.”
 ScalrではWEB UIを介してロードバランサー用のビルド済みAMI、アプリサーバー、データベースや一般的なAMIにより、サーバーファームを作成できます。
 
 “Scalr is meant to facilitate a virtual infrastructure that’s more redundant and, yes, scalable. It does elastic load balancing, automatically distributing incoming traffic across multiple server instances – something that Amazon offers but not Eucalyptus.”
-冗長性のある、スケーラブルな仮想インフラを促進する為にScalrが創世されました。Elastic ロードバランシングにより複数サーバーインスタンスを自動で分配していきます　−　アマゾンは提供可能だけど、Eucalyptusにはできません。
+冗長性のある、スケーラブルな仮想インフラを促進する為にScalrが創世されました。Elastic ロードバランシングにより複数サーバーインスタンスを自動で分配できます　−　アマゾンは提供可能だけど、Eucalyptusにはできません。
 
 Scalr now runs Samsung data centers worldwide in communication with the public cloud. In its partnership with Samsung, Scalr proved its rock-solid reliability in supporting and accommodating multinational infrastructures.
 Scalrでサムスンの世界中のデータセンターをパブリッククラウドと通信しながら、稼働させてます。サムスンとの提携により、多国のインフラ運用支援で、Scalrはその堅実な信頼性を証明できました。
@@ -50,4 +50,4 @@ To take advantage of the elastic capacity of the Rackspace Cloud, Connecticut Pu
 Rackspaceクラウドを利用する為に、コネティカット公共放送はScalrのオートスケールプラットフォームを採用する事で、トリッガーの検査検証を行えました。協力開始以降の放送ネットワークでのオンライン放送イベントがより円滑に走るよう報告がありました。
 
 Learn how RT Design Group is using Scalr to manage its clients’ websites and adapt its cloud infrastructure to their traffic. By using Scalr, RT Design enhances all IT processes, save a tremendous amount of money and keep its up-time and application response times very high.
-RTデザイングループがどうScalrを使用しクライアントのWEBサイトを管理し、クラウドインフラをトラフィックに対して適応してるか学ぼう。Scalrを使う事によって、RTデザインは全てのIT処理を高め、多大な金を節約でき、アップタイムとアプリ反応時間を常に高く維持できます。
+RTデザイングループがどうScalrを使用しクライアントのWEBサイトを管理し、クラウドインフラをトラフィックに対して適応してるか学びましょう。Scalrを使う事によって、RTデザインは全てのIT処理を高め、多大な金を節約でき、アップタイムとアプリ反応時間を常に高く維持できます。

@@ -2,10 +2,10 @@ About Us
 Scalrに関して
 
 Scalr is a relatively small startup—17 so far—with grand ambitions to provide resources to the world’s applications.
-Scalrは比較的小さいベンチャーです。まだ１７名で世界のアプリにリソースを提供する野望を持ってます。
+まだ比較的小さいベンチャーですが（１７名）、Scalrで世界各地のアプリケーションにリソース提供できる大きい夢を持ってます。
 
 We are profitable, bringing in enough revenue with the paid Scalr.net service to see a positive cash flow. Not many other startups can say that.
-有益な会社です。Scalr.netサービスにより黒字なキャッシュフローができるほどの売り上げを達成できてます。殆どのスタートアップはこれを言い切れません。
+有益な会社です。Scalr.netサービスによりキャッシュフローが黒字化できるほどの売り上げに到達できてます。殆どのスタートアップはこのレベルにたどりついてません。
 
 Management
 経営
@@ -44,13 +44,13 @@ Igor Vodiasov, Software Engineer. 
 Igor Vodiasov, Software Engineer. 
 
 Igor earned his stripes as a PHP and JavaScript engineer for more than 8 years, and works on the Scalr Core and UI as his boss’s right hand. He’s an amateur photographer, doesn’t like fixing bugs, and couldn’t be convinced to perform routine tasks for all the money in the world.
-Igorは8年間、PHPとJavaScriptエンジニアとして昇進してまいりました。今はボスの右手としてScalrCoreとUIに取り込んでます。アマチュア写真家でもあり、バグ修正が嫌いでいくら金を払っても日常的業務を実行する事に対して説得できません。
+Igorは8年間、PHPとJavaScriptエンジニアとして昇進してまいりました。今はボスの右手としてScalrCoreとUIに取り込んでます。アマチュア写真家でもあり、バグ修正を嫌がります。尚、日常的業務を一番嫌い、金をいくら出しても、させる事が不可能です。
 
 Dmitry Korsakov, Software Engineer. 
 Dmitry Korsakov, Software Engineer. 
 
 Dima as we call him, found his passion for systems engineering in 7th grade. Born in snows of Siberia, Dima likes terrible jokes, awkward moments, fattening food, soap operas and Open Source Software. He is a hacker at heart and works on the scalarizr. When not working, you can find Dima reading books on Linguistics or beating his African drum.
-Dimaはシステムエンジニアリングに対しての熱意を発見してのは１２歳の頃でした。シベリアの雪で生まれ、Dimaは弱いギャグ、気まずい瞬間、太りやすい食べ物、ソープオペラ、そしてオープンソースソフトウェアが好きです。心底はハッカーであり、Scalarizrを調整してます。働いてないとき、Dimaは言語学の読書をしたりアフリカドラムを叩いてたりしてます。
+Dimaはシステムエンジニアリングに対しての熱意に閃いたのは１２歳の頃でした。シベリアの雪で生まれ、Dimaは弱いギャグ、気まずい瞬間、太りやすい食べ物、ソープオペラ、そしてオープンソースソフトウェアが好きです。心底はハッカーであり、Scalarizrを調整してます。働いてないとき、Dimaは言語学の読書をしたりアフリカドラムを叩いてたりしてます。
 
 Nick Demyanchuk, Software Engineer. 
 Nick Demyanchuk, Software Engineer. 
@@ -92,7 +92,7 @@ Julien leads business development and customer success at Scalr. 
 ビジネス開発とカスタマーサクセスをScalrで引っ張ってるのがJulienです。
 
 Before extracting money from our partnerships, Julien extracted it from the financial markets at Goldman Sachs. Except from technology, Julien believes in soccer.
-提携先からお金を抽出する前は、JulienはGoldman Sachsで金融市場から抽出してました。技術的信者の他にサッカーの信者でもある。
+提携先からお金を抽出する前は、JulienはGoldman Sachsで金融市場から抽出してました。技術的信者の他にサッカー信者でもあります。
 
 Michel Galibert, Marketing. 
 Michel Galibert, Marketing. 
@@ -140,7 +140,7 @@ Dave is a cofounder and Senior Partner at Intridea, where he leads the company�
 DaveはIntrideaの共同創設者とシニアパートナーで、会社の製品開発に取り込んでます。
 
 Before Intridea, Dave spent years at both AOL and IMAKE and received a Masters in Systems Engineering from the University of Virginia. In other entrepreneurial ventures, Dave built and operated CanYouConnect – a social-networking site that competed with MySpace and Facebook – and Connexon Media – a Ruby on Rails consultancy. Dave also founded the Washington DC Ruby User Group.
-Intrideaの前はAOLやIMAKEで何年か過ごし、ヴァジニア大学からシステムエンジニアで修士号をもらってます。他のベンチャーでは、Daveは"CanYouConnect"というソーシャルネットワーキングサイトを構築運用し、当時のFacebookやMySpaceと競合したり、"Connexon Media"というRuby-on-Railsコンサルタント業も設立しました。また、Washington DC Ruby User Groupも創設しました。
+Intrideaの前はAOLやIMAKEで何年か過ごし、ヴァジニア大学からシステムエンジニアで修士号を得てます。他のベンチャーでは、Daveは"CanYouConnect"というソーシャルネットワーキングサイトを構築運用し、当時のFacebookやMySpaceと競合したり、"Connexon Media"というRuby-on-Railsコンサルタント業も設立しました。また、Washington DC Ruby User Groupも創設しました。
 
 Sebastian Stadil, Founder, CEO. 
 Sebastian Stadil, Founder, CEO. 

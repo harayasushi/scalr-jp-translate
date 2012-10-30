@@ -1,13 +1,13 @@
 Scalr proudly supports MySQL, PostgresSQL and MongoDB databases within a unified platform. Scalr comes with pre-configured databases. If you cannot find what you are looking for in our library, our powerful role builder tool will allow you to create a database tailored to your needs.
-統合プラットフォームの中でScalrはMySQL、PostgresSQL、MongoDBのデータベースをサポートしてます。尚、自前に構成されたデータベースもあります。もし、必要としえる物がライブラリーから見つからない場合、強力なロール構築ツールでニーズに応じたデータベースが作成できます。
+統合プラットフォームの中でScalrはMySQL、PostgresSQL、MongoDBのデータベースをサポートします。尚、自前に構成されたデータベースもついてきます。もし、必要としえる物がライブラリーから見つからない場合、強力なロール構築ツールでニーズに応じたデータベースを作成できます。
 Scalr fully supports MySQL and provides great features to manage efficiently your databases thanks to its Super Fast Engine.
 ScalrはMySQLを完全にサポートしてます。超高速エンジンのおかげでデータベースを効率的に管理し、優れた特徴を提供します。
 Super Fast MySQL Engine
 超高速 MySQL エンジン
 The database is often the slowest component of web architecture. Scalr features automatic MySQL scaling that can divide reads and writes to speed up the application.
-普段、ウェブアーキテクチャーの中でも最も遅いコンポーネントがデータベースです。 Scalrの自動MySQLスケーリングにより、読み書きが分別され、アプリの速度向上に繋がってます。
+普段、ウェブアーキテクチャーの中で最も遅いコンポーネントはデータベースです。 Scalrの自動MySQLスケーリングにより、読みと書きを分別し、アプリの速度向上に繋がってます。
 Auto-scaling
-自動スケール
+自動スケーリング
 When Scalr detects the load has increased above a defined threshold, it will launch a new instance and automatically configure it as a new slave of the current master.
 サーバ負荷が一定閾値以上になると、Scalrはこれを探知し自動的に新インスタンスを発信させ、現マスターの新スレイブとして自動構成します。
 Failover

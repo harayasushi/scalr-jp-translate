@@ -26,7 +26,7 @@ Scalrは正に芸術品です。ここ２年間、信頼性が天の恵みみた
 素晴らしい　−　ScalrはTweetStatsのTwitterからの予想されないトラフィックの流入を問題なくスケールできます。
 
 “I’d argue that Scalr makes Amazon EC2 significantly more interesting from a developer’s standpoint.”
-開発観点から言うとScalrはAmazon EC2を著しく面白くしてる主張したい。
+開発観点から言うとScalrはAmazon EC2を著しく面白くしてる主張をしたい。
 
 “Those behind Scalr believe open-sourcing their pet project will help disrupt the established, for-pay players in the AWS management game, RightScale.”
 Scalrに信じてる者はプロジェクトをオープンソースする事により、RightScaleのような課金に基づいたAWS運営ゲームや定着した企業を妨害する事ができます。

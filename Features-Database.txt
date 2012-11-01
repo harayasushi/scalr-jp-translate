@@ -1,15 +1,15 @@
 Scalr proudly supports MySQL, PostgresSQL and MongoDB databases within a unified platform. Scalr comes with pre-configured databases. If you cannot find what you are looking for in our library, our powerful role builder tool will allow you to create a database tailored to your needs.
-統合プラットフォームの中でScalrはMySQL、PostgresSQL、MongoDBのデータベースをサポートしてます。尚、自前に構成されたデータベースもあります。もし、必要としえる物がライブラリーから見つからない場合、強力なロール構築ツールでニーズに応じたデータベースが作成できます。
+統合プラットフォームの中でScalrはMySQL、PostgresSQL、MongoDBのデータベースをサポートしてます。尚、自前に構成されたデータベースもあります。もし、必要としえる物がライブラリから見つからない場合、強力なロール構築ツールでニーズに応じたデータベースが作成できます。
 
 Scalr fully supports MySQL and provides great features to manage efficiently your databases thanks to its Super Fast Engine.
-普段、ウェブアーキテクチャーの中でも最も遅いコンポーネントがデータベースです。 Scalrの自動MySQLスケーリングにより、読み書きが分別され、アプリの速度向上に繋がってます。
+ScalrはMySQLを完全にサポートしてます。超高速エンジンのおかげでデータベースを効率的に管理し、優れた特徴を提供します。
 
 Super Fast MySQL Engine
 超高速 MySQL エンジン
 
 The database is often the slowest component of web architecture. Scalr features automatic MySQL scaling that can divide reads and writes to speed up the application.
 
-普段、ウェブアーキテクチャーの中で最も遅いコンポーネントはデータベースです。 Scalrの自動MySQLスケーリングにより、読みと書きを分別し、アプリの速度向上に繋がってます。
+普段、ウェブアーキテクチャの中でも最も遅いコンポーネントがデータベースです。 Scalrの自動MySQLスケールにより、読み書きが分別され、アプリケーションの速度向上に繋がってます。
 
 Auto-scaling
 自動スケール
@@ -33,7 +33,7 @@ DNS Management
 DNS管理
 
 Scalr creates endpoints for you to configure your application to use. When servers fail, Scalr detects it and removes that record from the DNS zone. This means that reads and writes directed at that endpoint will no longer hit the failed server.
-Scalrはアプリを構成する為にエンドポイントを作成します。サーバ障害時に、Scalrは探知し、その記録をDNSゾーンから除外します。これにより、そのエンドポイントに向けられた読み書きは機能しなくなったサーバにヒットしなくなります。
+Scalrはアプリケーションを構成する為にエンドポイントを作成します。サーバ障害時に、Scalrは探知し、その記録をDNSゾーンから除外します。これにより、そのエンドポイントに向けられた読み書きは機能しなくなったサーバにヒットしなくなります。
 
 Within Scalr you can change all your MySQL database settings
 Scalr内で全てのMySQLデータベース設定を変更できます。

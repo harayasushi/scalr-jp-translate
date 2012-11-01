@@ -2,19 +2,20 @@ Redis scaling, replication and sharding
 Redis スケール・レプリケーション・シャード
 
 At Scalr, we’ve been following Redis for some time, loving its data model (a key-value store with more structure than memcached) and its speed. That’s why we decided Scalr should fully support Redis. But you may ask, how does Redis work?
-Scalr社は、優れたデータモデル（memcachedよりも構造化されたキーバリューストア）とそのスピードに注目し、Redisをずっとフォローし続けてきました。これがScalrがRedisをフルサポートしている理由です。しかし、どのようにRedisが動作するのか疑問に思うでしょう。
+Scalr社は、優れたデータモデル（memcachedよりも構造化されたキーバリューストア）とそのスピードに注目し、Redisを長らくフォローし続けてきました。ScalrがRedisをフルにサポートしている理由です。しかし、どのようにRedisが動作するのか疑問に思うでしょう。
 
 Persistence
 持続性
 
 As an in-memory database, Redis holds the whole dataset in RAM. Since RAM is volatile, Redis offers two persistence models: Snapshotting (a semi-persistent durability mode where the dataset is asynchronously transferred from memory to disk from time to time), and Append-only (a file or journal that is written as operations modifying the dataset in memory are processed).
-インメモリーのデータベースとして、Redisは全てのデータセットをRAMに保持します。RAMは揮発性であるため、Redisは２つの持続性モデルを提供しています。一つはスナップショット（データセットが非同期的にメモリからディスクに送られる semi-persistent durability　モード）と、追加のみ（オペレーションの結果変更されるファイルもしくはジャーナルがメモリ上のデータセットが処理される　モード）
+インメモリーのデータベースとして、Redisは全てのデータセットをRAMに保持します。RAMは揮発性なため、Redisは２つの持続性モデルを提供しています。一つはスナップショット（データセットが非同期的にメモリからディスクに送られる semi-persistent durabilityモード）と、追加のみ（オペレーションの結果変更されるファイルもしくはジャーナルがメモリ上のデータセットが処理されるモード）。
+
 
 Scaling 
 スケール
 
 Scaling Redis can be done through replication (read scaling) and sharding (write scaling). Pretty much the same as MySQL.
-Redisのスケーリングは、レプリケーション（読み込みスケーリング）とシャーディング（書き込みスケーリング）で行います。MySQLのスケーリングとほぼ同じ方式です。
+Redisのスケールは、レプリケーション（読み込みスケーリング）とシャーディング（書き込みスケール）で行います。MySQLのスケールとほぼ同じ方式です。
 
 Replication
 
@@ -22,18 +23,19 @@ Replication
 "For those of you thinking about read scaling or data redundancy, Redis supports master-slave replication. Data from any Redis server can replicate to any number of slaves; a slave may even be a master to another slave, for example (aka cascading replication, or a single-rooted replication tree). Worthy of note is that Redis slaves are writable, permitting intentional and unintentional inconsistency between instances.
 
 Sound good? Well we have good news for you then! Redis is now available as its own automatically replicated, automatically backed up, automatically persisted, and automatically monitored role in Scalr."
-リードスケーリングやデータ冗長化を考えているのであれば、Redisのマスタースレーブレプリケーションを使用出来ます。どのRedisサーバーのデータでも何台のスレーブにレプリケート可能です。スレーブは他のスレーブのマスターになることも可能です。例えば、(aka cascading replicationかsingle-rooted replication tree)特にRedisのスレーブは書き込み可能なので、意図的か意図的ではないに関わらず、インスタンス間の非一貫性を許容します。
+リードスケールやデータ冗長化を考えているのであれば、Redisのマスタースレーブレプリケーションを使用出来ます。どのRedisサーバーのデータでも何台のスレーブにレプリケート可能です。スレーブは他のスレーブのマスターになることも可能です。例えば、(aka cascading replicationかsingle-rooted replication tree)Redisのスレーブは書き込み可能なので、意図的か意図的ではないに関わらず、インスタンス間の非一貫性を許容します。
 
-いかがでしょうか？いいニュースがあります。RedisはScalrにより自動レプリケーション、自動バックアップ、自動的な持続そして自動的な監視roleを実現可能になりました。
+Sharding with Redis isn’t done on the (Redis) server side, but rather on the client side, next to your code running on your web server, with a client library that performs consistent hashing. That is, every request’s key is hashed, and the hash determines where to find or put some data. The hashing needs to be consistent, so the same key always gets hashed to the same location.
+RedisのシャーディングはRedisのサーバーサイドで行われるものではなく、どちらかといえば、クライアント側、Webサーバー横で走っているプログラム、consistent hashingを行うライブラリで走っています。すべてのリクエストキーはハッシュされ、そのハッシュ値はデータがどこにあるかまたは、どこに置くかを決定します。同じキーは同じ場所を示すハッシュ値を取得するため、一貫性が必要です。
 
 Sharding
-
+シャード
 
 Sharding with Redis isn’t done on the (Redis) server side, but rather on the client side, next to your code running on your web server, with a client library that performs consistent hashing. That is, every request’s key is hashed, and the hash determines where to find or put some data. The hashing needs to be consistent, so the same key always gets hashed to the same location.
 RedisのシャーディングはRedisのサーバーサイドで行われるものではなく、どちらかといえば、クライアント側、Webサーバーの側で走っているプログラム、consistent hashingを行うライブラリで走っています。すべてのリクエストキーはハッシュされ、そのハッシュ値はデータがどこにあるかまた、どこに置くかを決定します。同じキーは同じ場所を示すハッシュ値を取得するため、一貫性が必要です。
 
 Within Scalr you can change all your Redis database settings: backup schedule, persistence method, storage engine, and more
-
+Scalr内で全てのRedisデータベース設定を変更できます：バックアップスケジュール・持続性方式・ストレージエンジンなど
 
 Like all database roles, the Redis options menu contains a Redis status page
 他のデータベースロール同様、RedisオプションメニューにRedisステータスページを含みます。

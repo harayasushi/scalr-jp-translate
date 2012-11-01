@@ -2,7 +2,8 @@ About Us
 Scalrに関して
 
 Scalr is a relatively small startup—17 so far—with grand ambitions to provide resources to the world’s applications.
-まだ比較的小さいベンチャーですが（１７名）、Scalrで世界各地のアプリケーションにリソース提供できる大きい夢を持ってます。
+私たちは、社員17人の比較的小さいベンチャーです。しかし、Scalrを全世界に向けて供給していく夢を持っています。
+
 
 We are profitable, bringing in enough revenue with the paid Scalr.net service to see a positive cash flow. Not many other startups can say that.
 有益な会社です。Scalr.netサービスによりキャッシュフローが黒字化できるほどの売り上げに到達できてます。殆どのスタートアップはこのレベルにたどりついてません。

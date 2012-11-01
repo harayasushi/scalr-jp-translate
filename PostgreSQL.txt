@@ -10,7 +10,7 @@ Pre-configured Image
 事前に構成されたイメージ
 
 The Postgres image comes pre-configured with sensible parameters, and Scalr generates a unique password for you to connect your application. Additional control is achieved via ConfigurationTemplates.
-Postgresイメージは、実用的なパラメーターを使って事前に構成されています。また、あなたのアプリケーションに接続するためのユニークなパスワードを生成します。それ以上のコントロールはコンフィグレーションテンプレートから行います。
+Postgresイメージは、実用的なパラメーターを使って事前に構成されています。また、アプリケーションに接続するためのユニークなパスワードを生成します。それ以上のコントロールはコンフィグレーションテンプレートから行えます。
 
 Monitoring and Metrics
 監視とメトリックス
@@ -31,10 +31,10 @@ Scalr automatically adds read replicas when your read traffic increases above us
 Scalrは読み込みトラフィックがユーザーが決めた閾値を超えた場合に自動的に読み込み用レプリカを追加します。手動で追加することも可能です。
 
 Automatic Host Replacement
-自動ホストリプレースメント
+自動ホスト代用
 
 Scalr will automatically replace the instance powering your database in the event of a host failure
-Scalrは自動的にインスタンスをリプレースすることが出来るため、ホストがダウンした場合に効果を発揮します。
+Scalrは自動的にインスタンスを代用することが出来るため、ホストがダウンした場合に効果を発揮します。
 
 Replication
 レプリケーション

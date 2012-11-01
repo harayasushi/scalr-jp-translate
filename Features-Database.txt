@@ -9,7 +9,7 @@ Super Fast MySQL Engine
 
 The database is often the slowest component of web architecture. Scalr features automatic MySQL scaling that can divide reads and writes to speed up the application.
 
-普段、ウェブアーキテクチャの中でも最も遅いコンポーネントがデータベースです。 Scalrの自動MySQLスケールにより、読み書きが分別され、アプリケーションの速度向上に繋がってます。
+普段、ウェブアーキテクチャの中でも最も遅いコンポーネントがデータベースです。 Scalrの自動MySQLスケールにより、読み書きが分別され、アプリケーションの速度向上に繋がっています。
 
 Auto-scaling
 自動スケール

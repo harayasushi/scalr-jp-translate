@@ -9,6 +9,7 @@ Scalr と Chef の統合
 
 Create a control center where you can see your infrastructure, track spending, perform update and manage software servers. All this comes with Scalr gorgeous UI!
 管理センターの作成により、インフラ・トラック支出・更新実施・ソフトウェアサーバ管理などが明確に分かります。全て、Scalrの使いやすいUIで扱えます。
+
 Chef-based Role builder
 Chefを基盤としたロール構築
 

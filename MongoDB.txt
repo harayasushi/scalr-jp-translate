@@ -1,17 +1,17 @@
 You love MongoDB for its scalability and developer agility. Scalr is happy to offer public support for MongoDB and will, as always, make your life easier: enjoy self-managed, easily scaled, configurable Mongo.
-"たぶん、あなたはMongoDBがスケーラビリティに優れていて、俊敏な開発が出来るので気に入っているでしょう。ScalrはMongoFBを将来にわたってサポートしています。これにより、MongoDBの管理を自分で行う事が出来、容易なスケーリングと構成などを簡単に行う事が出来ます。"
+MongoDBがスケーラビリティに優れていて、俊敏な開発が出来るので気に入っているでしょう。Scalrは公式にMongoDBのサポートをし、作業がより簡易的にできるよう心がけてます。自己管理可能な、簡単にスケールできる、構成できるMongoをお楽しみください。
 
 Scaling
-スケ-リング
+スケーリング
 
 Use Scalr to add new shards or replicas set for extra read and write capacity.
-"Scalrを使用して新しいパーツやレプリカを追加し、さらに読み書き性能を拡張してみてください。"
+Scalr使用で読み書き可能な新パーツやレプリカを追加できます。
 
 Deploy your cluster across Azs
 アベイラビリティゾーンにクラスターを配置
 
 Scalr automatically provisions nodes across different availability zones. Set “placement & type” to “Distribute equally” in the farm’s settings to ensure that your instance are spread across multiple AZs.
-"Scalrは異なったアベイラビリティゾーンに自動的にノードを配置する事が出来ます。
+Scalrは異なったアベイラビリティゾーンへ自動的にノードを配置する事が出来ます。
 
 異なったアベイラビリティゾーンにインタンスが分散されるようにファームの”placement & type”を “Distribute equally”に設定してください。"
 

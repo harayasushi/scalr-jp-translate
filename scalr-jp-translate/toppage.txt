@@ -1,0 +1,93 @@
+Size doesn't matter.
+Scalr manages it all.
+サイズは関係ない！
+すべてのクラウドはSCALRで管理できます。
+
+Scalr is cloud management software for public & private infrastructure
+SCALRはパブリックとプライベートクラウドのマネージメントソフトウェアです
+
+7000 companies have chosen us
+世界7000社以上の企業に選ばれる実力
+
+Our cloud providers:
+対応クラウドサービス
+
+Turnkey Setup, instant start
+すぐ始められます
+
+- No upfront cost
+- 最初のコストはいりません
+
+- Premade roles
+- あらかじめ用意されたroles
+
+- DNS management
+- DNSの管理
+
+Put your servers, on cruise control
+サーバをクルーズコントロールに。
+
+- Complete autoscaling
+- 完全オートスケール
+
+- Failover by default
+- フェイルオーバーがデフォルト
+
+- Scheduled backups
+- スケジュールでバックアップ
+
+Need more? Pimp your ride!
+さらに強力な機能
+
+- Powerful scripting engine
+- 強力なスクリプトエンジン
+
+- Chef integration
+- Chefの統合
+
+- Multi-cloud enabled
+- マルチィクラウドで有効
+
+As seen on:
+参照できます：
+
+"Before, we trudged through time-consuming, repetitive tasks that were often prone to errors. That all changed when we met Scalr."
+以前は、頻繁にエラーが発生し、
+いちいち運用に時間をとられていました。
+しかし、SCALRが全てを解決してくれました。
+
+GET STARTED FOR FREE
+無料体験はこちら
+
+How it works
+SCALRとは？
+
+Features
+特徴
+
+Pricing
+料金
+
+Customer Love
+お客様の声
+
+About Us
+会社概要
+
+Read our blog
+ブログ
+
+Follow us on Twitter
+ツィッター
+
+Questions? Contact us
+お問い合わせ
+
+Find support
+サポートページ（英語）
+
+login
+ログイン
+
+GET STARTED FOR FREE (banner)
+無料でお試し

@@ -1,0 +1,74 @@
+You’re running a website or web service that attracts hundreds or thousands of users. With that sort of traffic, you cannot afford downtime.
+100や1000単位のユーザーを収集するウェブサイトかウェブサービスを提供してる最中、ダウンタイムを許すわけにはいかない。
+
+Whenever a problem arises, you need to act fast. Waiting for a response can be painful—at best it impacts user experience, at worst you lose customers. Scalr offers a support plan that addresses these requirements and guarantees that any of your issues get first priority from our support team. That means fast response time from us. Scalr emergency support provides professional support for mission-critical applications.
+問題が発生した時に速く行動しなければなりません。反応待ちが続けば痛いです - 良くてユーザー経験の悪化に繋ぎ、悪くてお客様が去っていきます。Scalrはこのような要件に応えるべきサポートプランを提供し、どのような課題でもサポートチームが最優先で取り込むようにしてます。Scalrの反応速度は凄く速いです。Scalrの緊急サポートはミッションクリティカルアプリケーションの為に専門家サポートを提供します。
+
+What other guarantees do I get with emergency support?
+緊急サポートで他に何が保証されてます？
+
+With emergency support we offer the following uptime guarantee:
+— 99.9% uptime for the Scalr UI, API, auto-scaling, and backups
+— For every percentage point of downtime under 99%, we’ll refund you 10% (to a maximum of 100%) of the month’s service charge in the form of future credits
+— Scalr.net downtime does not equate to downtime of your website. Your instances will keep running!
+緊急サポートでは下記のアップタイム保証を提供します：
+- Scalr UI、API、オートスケール、バックアップの99.9%アップタイム
+- 99%以下での1%毎のダウンタイムにて月のサービスチャージの10%（最大100％）を今後使用するクレジットとして返金致します。
+- Scalr.netのダウンタイムはお客様のウェブサイトのダウンタイム同様ではありません。インスタンスはそのまま稼働し続けます。
+
+How do I request help?
+ヘルプ要求するには？
+
+For Priority 1 and Priority 2 issues, you can call the Scalr emergency support number at any hour of any day. This number is available only for our emergency support members. For Priority 3 and Priority 4 issues, you can use support.scalr.net, and we’ll automatically categorize it as prioritized. If you are unsure about the category, you can post a ticket and call us with the ticket ID.
+優先課題１と２の対応にはいつでもScalrの緊急サポート番号を掛けられます。この連絡先は緊急サポートメンバーのみに提供されます。優先課題３と４の対応にはsupport.scalr.netを使用でき、優先されてると自動的に分類します。もし優先課題の分類が分からない場合は、チケットをポスティングしチケットIDで連絡を頂けると対応します。
+
+What does emergency support cover?
+緊急サポートはどこまで対応できます？
+
+Scalr emergency support covers the following issues:
+— Inaccessibility or dysfunction of the Scalr.net UI
+— Inaccessibility or dysfunction of the Scalr.net API
+— Failure to auto-heal unresponsive instances
+— Initialization failure of the Scalarizr guest agent
+— Failure to auto-scale instances according to user-set algorithm
+Scalr緊急サポートは下記の課題に対応できます：
+- Scalr.net UIへのアクセス障害・機能障害
+- Scalr.net APIへのアクセス障害・機能障害
+- 反応不能のインスタンスの自動回復障害
+- Scalarizrゲストエージェントの初期化障害
+- ユーザー設定のアルゴリズムを基にオートスケール障害発生
+
+Severity levels
+重症度
+
+Scalr categorizes incidents into severities ranging from 1 (critical) to 4 (benign). Depending on the severity of the issue encountered, response times and status updates vary. Phone support is available for severities 1 and 2, and the ticketing system will handle severities 3 and 4.
+Scalrはインシデントを重症度により分類します（１：クリティカル　〜　４：無害）。課題の重症度によって反応時間やステータス更新が変わります。重症度１と２には電話サポートがあり、３と４はチケットシステムで対応します。
+
+Here’s how we classify issues from Priority 1 to Priority 4
+優先課題１〜４の分類方式
+
+P1 – Scalr is completely inoperable or unavailable or there is a critical performance fault. Or a material aspect of Scalr is inoperable or unavailable for Tier 1. The fault is such that some or all users cannot authenticate or interact with the services (API, UI) due to an unacceptable performance on Scalr’s behalf.
+P2 – A material aspect of Scalr is inoperable or unavailable for Tier 2 or Tier 3. The fault is such that some or all users cannot authenticate or interact with the services.
+P3 – Scalr is operable and available but processing delays are affecting the actions of some or all users of Scalr.
+P4 – Scalr is operable and available, but there is a cosmetic error affecting the user experience of Scalr.
+P1 - Scalrにクリティカルパフォーマンス障害、又は完全に動作・利用できない。もしくは、Tier1用の物質的な側面が動作しない・利用できない。Scalr側の容認できない行動からの障害により、少数、又は全てのユーザーがサービス（API・UI）と認証・接触できない。
+P2 - ScalrでのTier2・Tier3用の物質的な側面が動作しない・利用できない。障害により、少数、又は全てのユーザーがサービスと認証・接触できない。
+P3 - Scalrの動作と利用の確認ができてますが、少数、又は全てのユーザーのアクションがプロセス延期により影響を及ぼしてる。
+P4 - Scalrの動作と利用の確認ができてますが、表示上のささいなエラーがユーザー経験に影響を及ぼしてる。
+
+Response times and status updates:
+反応時間＆ステータス更新
+
+P1 – Response in 2 hours, updates provided no less frequently than every hour until incident resolved.
+P2 – Response in 4 hours, updates provided no less frequently than every 2 hours until incident resolved.
+P3 – Response in 24 hours, updates provided no less frequently than every 6 hours until incident resolved.
+P3 – Response in 1 business day, updates provided upon request.
+P1 - ２時間内に反応します。インシデントが解決されるまで最低でも１時間毎に更新を提供。
+P2 - ４時間以内に反応します。インシデントが解決されるまで最低でも２時間毎に更新を提供。
+P3 - ２４時間以内に反応します。インシデントが解決されるまで最低でも６時間毎に更新を提供。
+
+Additional services
+追加サービス
+
+If you need help getting set up, we have a network of cloud and Scalr experts to work with you. Check out our consulting page.
+セットアップする為にガイダンスが必要であれば、クラウドやScalr専門家のネットワークがご一緒できます。より詳しい情報はコンサルティングページにて。

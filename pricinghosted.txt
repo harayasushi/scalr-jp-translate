@@ -1,0 +1,83 @@
+Pricing and Plans
+プランと料金
+
+Hosted Scalr
+ホスト型 Scalr
+
+Monthly Pricing
+月額
+
+World Domination
+世界征服
+
+Monopoly
+独占
+
+IPO
+IPO
+
+VC
+ベンチャー
+
+Angel
+エンジェル
+
+Seed
+シード
+
+Scale up to…
+MAXサーバ数
+
+Environments & user accounts
+環境・ユーザーアカウント
+
+Multicloud Support
+マルチィクラウドサポート
+
+RAID Support
+RAID サポート
+
+Chef Support
+Chef サポート
+
+Permissions System
+権限システム
+
+MongoDB support
+MongoDB サポート
+
+Support
+サポート
+
+Replicas + Shards
+レプリカ＋シャード
+
+Premium
+プレミアム
+
+Tickets
+チケット
+
+Emergency Support
+緊急サポート
+
+1 For your convenience we allow some flexibility in the server range. Scale up to 25% more than what your plan allows. For free !
+サーバ数範囲に関しては、多少な柔軟性を持ちます。無料でプランの25%以上スケール可能としてます。
+
+2 We support multi-cloud deployment for EC2, Rackspace, Eucalyptus, Nimbula, and Cloudstack.
+EC2、Rackspace、Eucalyptus、Nimbula、Cloudstackのマルチィクラウド展開のサポートをします。
+
+3 Though premium support is not available, these plans do offer the option of emergency support.
+プレミアムサポートはありませんが、緊急サポートのオプションは提供します。
+
+Customer referral program
+お客様紹介プログラム
+
+Scalr offers an additional month of trial to any new customer referred by an active Scalr user. In addition, all referrers will receive a $100 Amazon.com gift card for each of their referees who subscribe to one of our paid plans. Isn’t that great? Learn more about our referral program.
+紹介されたお客様には既存のトライアルに追加1ヶ月トライアル期間を提供します。更に、紹介者には紹介につき100ドルのアマゾンギフトカードをもらえます。紹介プログラムについて。
+
+Scalr consulting
+Scalr コンサルティング
+
+Does the thought of Amazon Web Services or cloud computing make you break out in a nervous sweat? Would you like a second set of discerning eyeballs on your infrastructure to suggest improvements? Get assistance and advice from Scalr itself! Or, no biggie, we could just do the whole shebang for you. Discover what we can do for you if you’re interested in a little extra help.
+AWSやクラウドコンピューティングに関してオロオロしてませんか？インフラについてセカンドオピニオン欲しがりません？Scalrからヘルプやアドバイスを求めましょう。

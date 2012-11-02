@@ -1,0 +1,45 @@
+Scalr proudly supports MySQL, PostgresSQL and MongoDB databases within a unified platform. Scalr comes with pre-configured databases. If you cannot find what you are looking for in our library, our powerful role builder tool will allow you to create a database tailored to your needs.
+統合プラットフォームの中でScalrはMySQL、PostgresSQL、MongoDBのデータベースをサポートしてます。尚、自前に構成されたデータベースもあります。もし、必要としえる物がライブラリから見つからない場合、強力なロール構築ツールでニーズに応じたデータベースが作成できます。
+
+Scalr fully supports MySQL and provides great features to manage efficiently your databases thanks to its Super Fast Engine.
+ScalrはMySQLを完全にサポートしてます。超高速エンジンのおかげでデータベースを効率的に管理し、優れた特徴を提供します。
+
+Super Fast MySQL Engine
+超高速 MySQL エンジン
+
+The database is often the slowest component of web architecture. Scalr features automatic MySQL scaling that can divide reads and writes to speed up the application.
+
+普段、ウェブアーキテクチャの中でも最も遅いコンポーネントがデータベースです。 Scalrの自動MySQLスケールにより、読み書きが分別され、アプリケーションの速度向上に繋がっています。
+
+Auto-scaling
+自動スケール
+
+When Scalr detects the load has increased above a defined threshold, it will launch a new instance and automatically configure it as a new slave of the current master.
+サーバ負荷が一定閾値以上になると、Scalrはこれを探知し自動的に新インスタンスを発信させ、現マスターの新スレイブとして自動構成します。
+
+Failover
+フェイルオーバー
+
+If one of your master instances becomes unavailable (hardware fault, server crash, alien invasion), Scalr will detect it and trigger its failover command. It will promote one of the slave servers to be the new master, and reconfiguring the other instances to replicate from this new master.
+もしマスターインスタンスが使用不可になれば（ハード障害、サーバ落ちなど）、Scalrはこれを探知し、フェイルオーバーコマンドを発動します。スレイブサーバのどれかを新マスターに昇進させ、残りのインスタンスが新マスターからレプリケートするように構成します。
+
+MySQL replication and stats
+MySQL レプリケーション　＆　統計
+
+It’s hard to diagnose and check the health of large databases. Scalr provides a database dashboard that gives you data such as replication stats (e.g. seconds_behind_master and operations per second).
+大型データベースの健康診断・検証は困難である。データベース用ダッシュボードを提供することによって、Scalrはレプリケーション統計などのデータを提供します。
+
+DNS Management
+DNS管理
+
+Scalr creates endpoints for you to configure your application to use. When servers fail, Scalr detects it and removes that record from the DNS zone. This means that reads and writes directed at that endpoint will no longer hit the failed server.
+Scalrはアプリケーションを構成する為にエンドポイントを作成します。サーバ障害時に、Scalrは探知し、その記録をDNSゾーンから除外します。これにより、そのエンドポイントに向けられた読み書きは機能しなくなったサーバにヒットしなくなります。
+
+Within Scalr you can change all your MySQL database settings
+Scalr内で全てのMySQLデータベース設定を変更できます。
+
+Like all database roles, the options menu contains a MySQL status page.
+全てのデータベースロール同様、オプションメニュー内にMySQLステータスページがあります。
+
+The MySQL status page allows you to check on the databases’ replication status, last backup (a dump), and last data bundle (binary snapshot).
+MySQLステータスページではデータベースのレプリケーションステータス、最終バックアップ（ダンプ）、最終データバンドルを確認できます。

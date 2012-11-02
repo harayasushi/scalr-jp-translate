@@ -1,0 +1,150 @@
+About Us
+Scalrに関して
+
+Scalr is a relatively small startup—17 so far—with grand ambitions to provide resources to the world’s applications.
+私たちは、社員17人の比較的小さいベンチャーです。しかし、Scalrを全世界に向けて供給していく夢を持っています。
+
+
+We are profitable, bringing in enough revenue with the paid Scalr.net service to see a positive cash flow. Not many other startups can say that.
+有益な会社です。Scalr.netサービスによりキャッシュフローが黒字化できるほどの売り上げに到達できてます。殆どのスタートアップはこのレベルにたどりついてません。
+
+Management
+経営
+
+Sebastian Stadil, Founder, CEO. 
+Sebastian Stadil、 CEO & 創設者
+
+Sebastian is your typical munchkin, min-maxing everything he possibly can, and applying this special know-how to Scalr. When not being a complete nerd, he runs the Silicon Valley Cloud Computing Group, consisting of about 5500 members who meet monthly to trade war stories from operating infrastructure. 
+Sebastianは典型的な小人です。全てをミニマックスし、その特殊なノウハウをScalrに応用します。完全オタクでない時はSilicon Valley Cloud Computing Groupを走らせ、グループの5500メンバーと一緒に毎月集会し、オペレーティングインフラに関して話し合います。
+
+Prior to founding Scalr, Sebastian had a social life and enjoyed skiing, juggling, and getting his butt kicked playing rugby.
+SebastianはScalrを創設する前にソーシャルライフがあり、良くスキーやジャグリング、ラグビーをやってました。
+
+Igor Savchenko, CTO. 
+Igor Savchenko、 CTO. 
+
+Igor has worked with web technologies since the tender age of 15, building farms and load-balanced clusters for high-load web applications time and time again–giving him the right experience to be our CTO. He loves going to the movies, especially when he can drag Nick along, kicking and screaming
+Igorは１５歳の若さでWEB技術で働いてきました。高負荷のWEBアプリの為のファームやロードバランサーの構築などを何度も何度も繰り返し、ScalrのCTOに相応しい経験を持ってます。映画を見に行くのが好きです。特にNickを無理矢理ひっぱりながら・・・
+
+Engineering
+エンジニアリング
+
+Nick Toursky, Director of Support and Services. 
+Nick Toursky, Director of Support and Services. 
+
+Nickolas has more DevOps, Cloud, and Linux knowledge than Richard Stallman has beard. He hates going to the movies, so you’ll often find him in bars instead, probably with a pint of beer.
+DevOps、クラウド、LINUXを極めてます。映画を見に行くのが嫌なので、バーで良く発見されます。
+
+Marat Komarov, Director of Engineering. 
+Marat Komarov, Director of Engineering. 
+
+Marat is responsible for Scalr’s development, architecture, and user interfaces, with a focus on the Scalarizr (Scalr guest agent). He enjoys traveling, mountain biking, and spending time with his son. Don’t let this healthy façade fool you though–he’s a true geek at heart, as attested by his stubborn defense of the “scalarizr” name.
+MaratはScalrの開発、アーキテクチャーとUIを担当してます。フォーカスはScalarizr (Scalrのゲストエージェント)。旅行、マウンテンバイキングが好きな他、息子と時間を費やすのが好きです。この健康な正面に惑わさらないでください。心では本当のオタクであります　−　"Scalarizr"という名前の頑固な防衛がこれを証明してます。
+
+Igor Vodiasov, Software Engineer. 
+Igor Vodiasov, Software Engineer. 
+
+Igor earned his stripes as a PHP and JavaScript engineer for more than 8 years, and works on the Scalr Core and UI as his boss’s right hand. He’s an amateur photographer, doesn’t like fixing bugs, and couldn’t be convinced to perform routine tasks for all the money in the world.
+Igorは8年間、PHPとJavaScriptエンジニアとして昇進してまいりました。今はボスの右手としてScalrCoreとUIに取り込んでます。アマチュア写真家でもあり、バグ修正を嫌がります。尚、日常的業務を一番嫌い、金をいくら出しても、させる事が不可能です。
+
+Dmitry Korsakov, Software Engineer. 
+Dmitry Korsakov, Software Engineer. 
+
+Dima as we call him, found his passion for systems engineering in 7th grade. Born in snows of Siberia, Dima likes terrible jokes, awkward moments, fattening food, soap operas and Open Source Software. He is a hacker at heart and works on the scalarizr. When not working, you can find Dima reading books on Linguistics or beating his African drum.
+Dimaはシステムエンジニアリングに対しての熱意に閃いたのは１２歳の頃でした。シベリアの雪で生まれ、Dimaは弱いギャグ、気まずい瞬間、太りやすい食べ物、ソープオペラ、そしてオープンソースソフトウェアが好きです。心底はハッカーであり、Scalarizrを調整してます。働いてないとき、Dimaは言語学の読書をしたりアフリカドラムを叩いてたりしてます。
+
+Nick Demyanchuk, Software Engineer. 
+Nick Demyanchuk, Software Engineer. 
+
+Nick holds a bachelor’s degree in information systems, which he has put to good use as a Linux automation engineer and Linux system administrator since 2006. He works on the scalarizr, but not as much as he likes to reinvent himself–daily. He hates consistency, and comes in every day with new passions and interests.
+Nickは情報システムの学士号を持っており、得た知識を2006年よりLINUXオートメーションエンジニアとLINUXシスアドミンで応用してます。Scalarizrに力入れてますが、自分をどう毎日再発明するかにもっと力入れてます。一貫性を嫌い、毎日新たなパッションと興味を持ち出社してきます。
+
+Yulia Vasilenko, Software Engineer. 
+Yulia Vasilenko, Software Engineer. 
+
+Yulia is the proud owner of a bachelor’s degree in software development. She started out as a PHP and JavaScript engineer in 2008, but dropped the php when joining Scalr and now only does UI–pushing her javascript-fu to the limits. She loves being the only girl in the office, and devises diabolical new plans every day to make sure things stay this way.
+Yuliaはソフトウェア開発の学士号を持ってます。2008年にPHPとJavaScriptエンジニアとしてスタートしましたが、Scalr入社時にPHPを落とし、現在はjavascript-fuを限界まで押してUIに取り組んでます。会社で唯一の女性と言うステータスが何より好きで、この状態をどう維持すべきか様々な企画を企んでます。
+
+Oleg Suharev, Test Engineer. 
+Oleg Suharev, Test Engineer. 
+
+Oleg is responsible for the development of testing tools and functional testing of Scalr, and writes integration tests for the Scalarizr and Scalr Core. He also built some awesome automation and build tools. He likes active sports, and won Scalr’s annual “best smile” competition 3 times in a row. He doesn’t like to drink, so always ends up being the designated driver. Boo-hoo!
+Olegは検証ツールの開発やScalrの機能的検証を担当し、ScalrやScalarizrの統合検証も書きます。更に、優越なオートメーションや構築ツールも開発しました。彼はアクティブスポーツが好きで、Scalr年次の"ベストスマイル"コンペを３年連続勝利してます。飲み好きではなく、他のチームメンバーの指定運転手になってしまわれる事が常々あります。
+
+Vladimir Ryazanov, Software Engineer. 
+Vladimir Ryazanov, Software Engineer. 
+
+Vova as we call him, is known as Mister Awesome at Scalr. He’s working on a secret, yet-to-be-revealed product that is the brainchild of Marat. It’s going to be awesome. Mister Awesome-class awesome.
+VovaはScalrではミスター素晴らしいと知られてます。彼はMarat発案の秘密でまだ公開されてない製品に取り込み中です。素晴らしい物です！だから、Vovaはミスター素晴らしいなのです。
+
+Anton Kovalyov, Graphics designer. 
+Anton Kovalyov, Graphics designer. 
+
+Anton designs all of Scalr’s icons, artwork, themes and styles. He’s the one to thank for the explanatory comic strip seen in the Scalr tour. He likes video games, 4chan, and lolcat pictures. He loves pranks, and can keep a poker face in all situations.
+Scalrの全てのアイコン・アートワーク・テーマとスタイルをデザインしてるのがAntonです。Scalrツアーで見れる説明用の漫画を書いたのも彼で、ビデオゲーム、4chan、lolcat絵などが好きです。ジョーク好きでどんな状況でもポーカーフェイスで通せます。
+
+Marketing & Sales
+マーケティング・セールス
+
+Julien Rialan, Business development. 
+Julien Rialan, Business development. 
+
+Julien leads business development and customer success at Scalr. 
+ビジネス開発とカスタマーサクセスをScalrで引っ張ってるのがJulienです。
+
+Before extracting money from our partnerships, Julien extracted it from the financial markets at Goldman Sachs. Except from technology, Julien believes in soccer.
+提携先からお金を抽出する前は、JulienはGoldman Sachsで金融市場から抽出してました。技術的信者の他にサッカー信者でもあります。
+
+Michel Galibert, Marketing. 
+Michel Galibert, Marketing. 
+
+Michel runs marketing for us at Scalr. You’ll always see him with his TI-83, calculating today’s conversion rates, and the return from the ad money he spent the day before. 
+Scalrでマーケティングに取り込んでるのがMichelです。常にTI-83電卓を持ち歩きながら、今日の換算レートを採取し、広告からのリターンを計算してます。
+
+Prior to Scalr, Michel worked at Google in the AdWords team.
+Scalrに来る前に、MichelはGoogleのAdWordsチームで働いてました。
+
+Robin Piedeleu, Sales. 
+Robin Piedeleu, Sales. 
+
+Robin runs our well oiled sales machine, sending in SWAT teams to coerce everyone and their mom to sign up to a paid plan. 
+RobinはScalrの営業マシンを稼働してます。営業チームを送り込んで、一人でも多い方をScalrプランに登録しようとがんばってます。
+
+Prior to Scalr, Robin coordinated sales and marketing for L’Occitane, a luxury beauty products company.
+Scalrに来る前は、Robinはセールスマーケティングをロクシタンというコスメ会社でやってました。
+
+Paul Chapotet, Technical Sales. 
+Paul Chapotet, Technical Sales. 
+
+Paul is the technical backbone of our marketing & sales team, keeping us technically correct–the best kind of correct. 
+Paulはセールスマーケティングチームの技術的背骨となってます。
+
+Before becoming the Dwight Schrute of Scalr, Paul graduated from Supinfo and did freelance hackery.
+Scalrの超営業マンになる前、PaulはSupinfoから卒業し、フリーランスでハッキングをしてました。
+
+Arvind Palanisamy, Customer success. 
+Arvind Palanisamy, Customer success. 
+
+Arvind is in our marketing and sales team, ready to answer all your technical questions to ensure customer success. 
+Arvindはマーケティングセールスチームの一員であり、顧客の成功を遂行する為に、全ての技術的質問を答えれるよう準備してます。
+
+After a rebellious youth taking arms against his nation’s stereotype of IT staffers, Arvind landed in a hardcore technology company: Scalr. Coincidence? We think not.
+若からしい時代は自国のITスタッフの既成概念と格闘した後、Arvindはハードコアな技術会社に入社しました。それがScalrでした。。。偶然・・・ではないと思います。
+
+Board
+取締役会
+
+Dave Naffis, cofounder of Intridea. 
+Dave Naffis, cofounder of Intridea. 
+
+Dave is a cofounder and Senior Partner at Intridea, where he leads the company’s product development efforts. 
+DaveはIntrideaの共同創設者とシニアパートナーで、会社の製品開発に取り込んでます。
+
+Before Intridea, Dave spent years at both AOL and IMAKE and received a Masters in Systems Engineering from the University of Virginia. In other entrepreneurial ventures, Dave built and operated CanYouConnect – a social-networking site that competed with MySpace and Facebook – and Connexon Media – a Ruby on Rails consultancy. Dave also founded the Washington DC Ruby User Group.
+Intrideaの前はAOLやIMAKEで何年か過ごし、ヴァジニア大学からシステムエンジニアで修士号を得てます。他のベンチャーでは、Daveは"CanYouConnect"というソーシャルネットワーキングサイトを構築運用し、当時のFacebookやMySpaceと競合したり、"Connexon Media"というRuby-on-Railsコンサルタント業も設立しました。また、Washington DC Ruby User Groupも創設しました。
+
+Sebastian Stadil, Founder, CEO. 
+Sebastian Stadil, Founder, CEO. 
+
+Sebastian Stadil also serves on the board of directors.
+Sebastian Stadilは取締役会にも席おいてます。

@@ -1,0 +1,74 @@
+Cloud Providers
+クラウドプロバイダ
+
+In 2006, Amazon Web Services (AWS) began offering IT infrastructure services to businesses in the form of web services—now commonly known as cloud computing. Today, Amazon Web Services provides a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers hundreds of thousands of businesses in 190 countries around the world.
+For more information visit aws.amazon.com.
+2006年にアマゾンウェブサービス(AWS)がクラウドコンピューティングと言うITインフラサービスをウェブサービスとして事業に提供し始めました。今ではAWSはクラウド上の高信頼性、スケール可能、低コストなインフラプラットフォームを提供し、190ヵ国で10万単位のビジネスをサービスしてます。詳しい情報はaws.amazon.comまで。
+
+Fanatical Support® has made Rackspace the world’s leading specialist in the hosting and cloud computing industry. Rackspace delivers enterprise-level hosting services to businesses of all sizes, offering its special brand of managed hosting, cloud hosting, and email and apps. Since 1998, Rackspace has grown to more than 161,000 customers and over 3,800 Rackers.
+For more information visit www.rackspace.com
+Fanatical Support®により、Rackspaceがホスティングとクラウドコンピューティング業界で世界最先端のスペシャリストになりました。エンタープライズ版ホストサービスを様々なサイズのビジネスに提供することにより、Rackspaceはクラウドホスティング、電子メール、アプリケーションを合わさった特殊ブランドの管理ホスティングを提供できます。
+
+Nimbula develops cloud orchestration software for the implementation of public and private cloud computing environments. Their software, Nimbula Director, is designed to make it easier for Service Providers and Enterprises to build, manage and deploy IaaS offerings.
+Nimbula is a backed by Sequoia Capital and Accel Partners.
+For more information visit www.nimbula.com
+Nimbulaはパブリックやプライベートクラウドコンピューティング環境を導入できるクラウドオーケストレーションソフトウェアの開発に取り組んでます。Nimbula DirectorはサービスプロバイダやエンタープライズがIaaSオファリングの構築・管理・展開をより簡易的に実行できるよう設計されてます。
+NimbulaはSequoia CapitalとAccel Partnersから投資を受けてます。
+より詳しい情報はwww.nimbula.comまでお越し下さい。
+
+Eucalyptus is a software platform for the implementation of private cloud computing on computer clusters. Both open-core enterprise edition and an open-source edition are available. The development of Eucalyptus software is sponsored by Eucalyptus Systems, a startup venture-backed.
+For more information visit www.eucalyptus.com
+Eucalyptusはコンピュータクラスター上でプライベートクラウドコンピューティングを導入する為のソフトウェアプラットフォームです。オープンコアエンタープライズ版とオープンソース版の両方が使えます。Eucalyptusソフトウェアの開発はベンチャーのEucalyptus Systemsからスポンサーされてます。
+より詳しい情報はwww.eucalyptus.comまでお越し下さい。
+
+CloudStack, is an open source cloud orchestration software product for the implementation of public and private cloud computing environments created by Cloud.com. Cloudstack is designed to make it easier for Service Providers and Enterprises to build, manage and deploy IaaS.
+For more information visit www.cloudstack.com
+Cloud.com.から作成され、Cloudstackはパブリックやプライベートクラウドコンピューティング環境を導入する為のオープンソースクラウドオーケストレーションソフトウェアです。CloudstackはサービスプロバイダやエンタープライズがIaaSの構築・管理・展開をより簡易的に実行できるよう設計されてます。
+より詳しい情報はwww.cloudstack.comまでお越し下さい。
+
+Chef
+Opscode is the leader in cloud infrastructure automation. We help companies of all sizes develop fully automated server infrastructures that scale easily and predictably; can be quickly rebuilt in any environment; and save developers and systems engineer’s time and money. Opscode’s team is comprised of web infrastructure experts responsible for building and operating some of the world’s largest websites and cloud computing platforms. Opscode is headquartered in Seattle.
+For more information visit www.opscode.com
+Chef
+Opscodeはクラウドインフラ自動化ツールのリーダーです。簡易的にかつ予測通りにスケールする完全自動化サーバインフラの導入、どんな環境でも素早く再構築できるインフラ、開発者やシステムエンジニアのお金や時間を倹約できるなどと企業規模関係なく支援できるツールです。Opscodeのチームには世界でも最大規模のウェブサイトやクラウドコンピューティングプラットフォームを構築した実績あるウェブインフラ専門家を含んでます。シアトルに本拠地を置いてます。
+より詳しい情報はwww.opscode.comまでお越し下さい。
+
+Cost Monitoring
+Cloudyn makes it easy to understand, control and optimize cloud consumption, providing users with the ability to save up to 40% on their cloud costs. Cloudyn’s integration with Scalr enables users to uncover cloud inefficiencies (such as underutilized and unused resources), receive actionable recommendations on ideal pricing plans, as well as avoid unanticipated spending with easy-to-use, customizable and automated alerts – all within Scalr’s familiar interface.
+For more information, visit www.cloudyn.com
+コスト監視
+Cloudynでクラウド消費の最適化や制御の理解が簡単になるのでユーザーのクラウドコストを４０％まで削減可能にします。CloudynのScalr内統合により、クラウド非効率性（フルに使用してない・使用してないリソース）、行動可能なプライシングプランの受信、使用し易いカスタマイズ可能な自動アラートで予期せぬ消費の回避などの効果を得られます。全てScalrのインターフェースから導入できます。
+より詳しい情報はwww.cloudyn.comまでお越し下さい。
+
+Monitoring Service
+Datadog is a monitoring service for IT, Operations and Development teams who write and run applications at scale, and want to turn the metric and event data produced by their apps, tools and services into actionable insight. The product integrates metrics and events from many sources including existing monitoring tools, so you can visualize performance of all your services, systems and applications, without having to switch between tools. And since Datadog runs as a service in the cloud, you can focus your time on performance monitoring rather than managing monitoring servers.
+For more information visit www.datadoghq.com
+監視サービス
+DatadogはIT、運用、開発チーム用の監視サービスです。こう言ったチームがスケールでアプリケーションを書いたり稼働さしたりしながら、アプリケーション・ツール・サービスから発生するメトリックスやイベントデータを意味ある行動に変える事ができます。ツール切替をしなくても、この製品は既存の監視ツールを含む様々なソースからメトリックスやイベントデータを収集し全てのサービス・システム・アプリケーションのパフォーマンスを可視化できます。尚、Datadogがクラウド上のサービスとして動作する為、監視サーバの管理ではなく、時間をパフォーマンス監視に置けます。
+より詳しい情報はwww.datadoghq.comまでお越し下さい。
+
+Performance Monitoring and Testing
+Grid Robotics LLC is the leading provider of PaaS (Platform as a Service) solutions for development, testing, training and collaboration for all the major public and private clouds. Their innovative Windows® and Linux virtual appliances are optimized to run in today’s cloud and virtual environments, providing virtualized solutions to real world problems.
+To learn more about our common offer with Grid Robotic, read our presentation .
+For more information, visit www.gridrobotics.com
+パフォーマンス監視と検証
+Grid Robotics LLCは全てのメジャーパブリックとプライベートクラウドに置いて、開発、検証、教育、協力用のPaaS（Platform as a Service)ソリューションの大手プロバイダです。世界で起きてるリアルな問題に仮想化ソリューションを提供し、WindowsとLinux両方に走れる革新的な仮想化アプライアンスは現代のクラウドや仮想化環境上で最適に走るように作られてます。共通オファリングに関してより知りたいのであれば、プレゼンを参照してください。
+より詳しい情報はwww.gridrobotics.comまでお越し下さい。
+
+Log Management
+Loggly is the leading cloud-based log management and data analytics platform. Founded in 2009, Loggly’s service is a cost effective way for users to monitor, debug, and troubleshoot their IT infrastructure, applications, and business processes to generate actionable results.
+Loggly is headquartered in San Francisco and backed by True and Trinity Ventures.
+For more information visit www.loggly.com
+ログ管理
+Logglyは最先端のクラウド上ログ管理・データ分析プラットフォームです。2009年に設立され、行動可能な結果を発生させる為に、Logglyのサービスはコスト面から有効的にユーザーがITインフラ・アプリケーション・ビジネスプロセスを監視、デバグ、トラブルシュートできます。
+本拠地をサンフランシスコに構え、True and Trinity Ventures により投資されてます。
+より詳しい情報はwww.loggly.comまでお越し下さい。
+
+System Integrators
+Creationline produces and innovates business processes and models by using creative solutions and the latest technology. It has worked with various government and administrative agencies in Japan, including the Ministry of Economy, Trade and Industry (METI) to evaluate its basic functionality, performance, and reliability of cloud operation and management tools.
+For more information visit www.creationline.com.
+システムインテグレータ
+Creationlineは最先端の技術と創造性のあるソリューションでビジネスプロセスやモデルを革新し提供します。クリエーションラインはMETI（経済産業省）を含む、様々な政府や行政機関と仕事をこなしており、クラウド運用管理ツールの基本機能性、パフォーマンスと信頼性を評価してます。
+より詳しい情報はwww.creationline.comまでお越し下さい。
+
+
